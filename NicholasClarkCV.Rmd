@@ -1,0 +1,12 @@
+---
+title: "Nicholas Clark CV"
+author: "Dr Nicholas Clark"
+date: "9 January 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is my CV
