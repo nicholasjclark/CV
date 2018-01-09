@@ -19,9 +19,9 @@ Flexible and engaging ecologist within interests in studying how pathogen commun
 ## Transferable Skills
 * Strong communication skills: 16 publications in peer-reviewed journals; four presentations at international conferences 
 * Broad field experience: supervised teams of field researchers in both terrestrial and marine habitats
-* Extensive experience using script-based programming: proficient with frequentist and probabilistic statistical analyses; regularly develop custom R functions to address targeted hypotheses
+* Extensive experience using script-based programming: proficient with frequentist and probabilistic statistical analyses; regularly develop R functions to address targeted hypotheses
 * Aptitude for leadership: trained four postgraduate students in bioinformatics and statistical techniques
-* Proven ability to obtain funding: $32000 external funding from domestic and international organisations
+* Proven ability to obtain funding: $52000 external funding from domestic and international organisations
 
 ## Qualifications
 **PhD**  
@@ -51,9 +51,9 @@ Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field ob
 **Postdoctoral Fellow (7/2016 - 12/18)**  
 **University of Queensland**, School of Veterinary Science
 
-* Co-supervising two PhD students in molecular ecology and quantitative genetics
+* Co-supervising two PhD students in disease ecology and quantitative genetics
 * Conducting research into the spatio-temporal evolution of canine parvoviruses
-* Leading tutorials in animal and plant genetics for Veterinary and Science students
+* Leading a National Geographic-funded project on the spread of parasites at the human-wildlife interface
 
 **Research Assistant (1/2016 - 7/16)**  
 **University of Queensland**, School of Veterinary Science (Adviser: Dr Steven Kopp)
