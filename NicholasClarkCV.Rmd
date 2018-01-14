@@ -79,15 +79,15 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 ```
 
 ## Summaries of Key Publications
-**Clark, NJ** and Clegg, SM (2017) Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. Molecular Ecology 26(11), 3074-3086  
+**Clark, NJ** and Clegg, SM (2017) Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. *Molecular Ecology*   
   
 Developed a novel phylogenetic host-specificity metric that integrates multiple sources of information, providing a more in-depth understanding of parasite infection patterns.  
   
-**Clark, NJ** et al. Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. (2016) Journal of Animal Ecology.  
+**Clark, NJ** et al. (2016) Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. *Journal of Animal Ecology*  
   
 Used Bayesian multivariate regressions to show that parasite interactions and biogeographical structure combine to influence malaria infection rates in wild birds. This finding was well-received, securing an invited oral presentation at the 2015 Evolutionary Ecology of Infectious Diseases Conference (Georgia, USA).  
   
-**Clark, NJ** et al. A review of global diversity in avian haemosporidians (*Plasmodium* and *Haemoproteus*: Haemosporida): new insights from molecular data. (2014) International Journal for Parasitology.  
+**Clark, NJ** et al. (2014) A review of global diversity in avian haemosporidians (*Plasmodium* and *Haemoproteus*: Haemosporida): new insights from molecular data. *International Journal for Parasitology*   
   
 Conducted a systematic meta-analysis to quantify global parasite diversity patterns and generate future sampling directions. Called “a classic in the field” by a thesis examiner, this is the 2nd most cited of 135 articles published using the keyword “avian malaria” since 2014 (77 citations).
 
@@ -97,56 +97,54 @@ Conducted a systematic meta-analysis to quantify global parasite diversity patte
 **2018**  
 Wells, L, Gibson, DI, **Clark, NJ**, Ribas, A, Morand, S, McCallum, H. Global spread of helminth parasites at the human – domestic animal – wildlife interface. (2018). *Global Change Biology* accepted 13/01/18  
   
-**Clark, NJ**, Seddon, JM, Kyaw‐Tanner, M, Al-Alawneh, J, Harper, G, McDonagh, P, and Meers, J. Emergence of canine parvovirus subtype 2b (CPV-2b) infections in Australian dogs. Infection, Genetics and Evolution DOI: 10.1016/j.meegid.2017.12.013. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_infgenevol_2018.pdf)  
+**Clark, NJ**, Seddon, JM, Kyaw‐Tanner, M, Al-Alawneh, J, Harper, G, McDonagh, P, and Meers, J. Emergence of canine parvovirus subtype 2b (CPV-2b) infections in Australian dogs. *Infection, Genetics and Evolution* DOI: 10.1016/j.meegid.2017.12.013. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_infgenevol_2018.pdf)  
   
-**Clark, NJ**, Seddon, JM, Šlapeta, J, and Wells, K. Parasite spread at the domestic animal - wildlife interface: anthropogenic habitat use, phylogeny and body mass drive risk of cat and dog flea (Ctenocephalides spp.) infestation in wild mammals. Parasites & Vectors DOI: 10.1186/s13071-017-2564-z. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_etal_2018parvec.pdf)    
+**Clark, NJ**, Seddon, JM, Šlapeta, J, and Wells, K. Parasite spread at the domestic animal - wildlife interface: anthropogenic habitat use, phylogeny and body mass drive risk of cat and dog flea (Ctenocephalides spp.) infestation in wild mammals. *Parasites & Vectors* DOI: 10.1186/s13071-017-2564-z. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_etal_2018parvec.pdf)    
   
 
 **2017**  
-**Clark, NJ**, Clegg, SM, Sam, K, Goulding, W, Koane, B and Wells, K. Climate, host phylogeny and the connectivity of host communities govern regional parasite assembly. Diversity and Distributions DOI: 10.1111/ddi.12661 (IF: 4.391)  
+**Clark, NJ**, Clegg, SM, Sam, K, Goulding, W, Koane, B and Wells, K. Climate, host phylogeny and the connectivity of host communities govern regional parasite assembly. *Diversity and Distributions* DOI: 10.1111/ddi.12661. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_et_al-2017-diversity_and_distributions.pdf)  
   
-**Clark, NJ** and Clegg, SM (2017) Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. Molecular Ecology 26(11), 3074-3086 (IF: 5.947; Cited by 3)  
+**Clark, NJ** and Clegg, SM (2017) Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. *Molecular Ecology* 26(11), 3074-3086. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_and_clegg-2017-molecular_ecology.pdf)    
   
-McKee, J, **Clark, NJ**, Shapter, F and Simmons, G. (2017) A new look at the origins of Gibbon Ape Leukemia Virus. Virus Genes 53(2), 165-172 (IF: 1.285)  
+McKee, J, **Clark, NJ**, Shapter, F and Simmons, G. (2017) A new look at the origins of Gibbon Ape Leukemia Virus. *Virus Genes* 53(2), 165-172. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/mckee_et_al._2017_virus_genes.pdf)  
   
 
 **2016**  
-**Clark, NJ**, Wells, K, Dimitrov, D and Clegg, SM. (2016) Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. Journal of Animal Ecology 85(6), 1461-1470 (IF: 4.827; Cited by 2)  
+**Clark, NJ**, Wells, K, Dimitrov, D and Clegg, SM. (2016) Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. *Journal of Animal Ecology* 85(6), 1461-1470. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_et_al-2016-journal_of_animal_ecology.pdf)  
   
-Aharon-Rotman, Y, Buchanan, KL, **Clark, NJ**, Klaassen, M and Buttemer, WA. (2016) Why fly the extra mile? Using stress biomarkers to assess wintering habitat quality in migratory shorebirds. Oecologia 182(2), 385-395 (IF: 2.902; Cited by 2)  
+Aharon-Rotman, Y, Buchanan, KL, **Clark, NJ**, Klaassen, M and Buttemer, WA. (2016) Why fly the extra mile? Using stress biomarkers to assess wintering habitat quality in migratory shorebirds. *Oecologia* 182(2), 385-395. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/aharon-rotmanetal.2016whyflyextramile.pdf)  
   
-Goulding, W, Adlard, RD, Clegg, SM and **Clark, NJ**. (2016) Molecular and morphological description of *Haemoproteus* (*Parahaemoproteus*) *bukaka* (species nova), a haemosporidian associated with the strictly Australo-Papuan host Subfamily Cracticinae. Parasitology Research 115, 3387-3400 (IF: 2.027; Parasitology: 15 of 36; Cited by 2)  
+Goulding, W, Adlard, RD, Clegg, SM and **Clark, NJ**. (2016) Molecular and morphological description of *Haemoproteus* (*Parahaemoproteus*) *bukaka* (species nova), a haemosporidian associated with the strictly Australo-Papuan host Subfamily Cracticinae. *Parasitology Research* 115, 3387-3400.[PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/goulding_et_al_parasres2016.pdf)    
   
-**Clark, NJ**, Clegg, SM and Klaassen, M. (2016) Migration strategy and pathogen risk: non‐breeding distribution drives malaria prevalence in migratory waders. Oikos 125(9), 1358-1368 (IF: 3.586; Cited by 13)  
+**Clark, NJ**, Clegg, SM and Klaassen, M. (2016) Migration strategy and pathogen risk: non‐breeding distribution drives malaria prevalence in migratory waders. *Oikos* 125(9), 1358-1368. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_et_al-oikos_2016.pdf)  
   
 
 **2015**   
-**Clark, NJ**, Ishtiaq, F, Olsson-Pons, S and Clegg, SM. (2015) Specialist enemies, generalist weapons and the potential spread of exotic pathogens: malaria parasites in a highly invasive bird. International Journal for Parasitology 45(14), 891-899 (Editor’s choice: IF: 4.242; Cited by 8)  
+**Clark, NJ**, Ishtiaq, F, Olsson-Pons, S and Clegg, SM. (2015) Specialist enemies, generalist weapons and the potential spread of exotic pathogens: malaria parasites in a highly invasive bird. *International Journal for Parasitology* 45(14), 891-899. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_et_al_ijp_2015_mynas.pdf)    
   
-Olsson-Pons, S, **Clark, NJ**, Ishtiaq, F and Clegg, SM. (2015) Differences in host species relationships and biogeographical influences produce contrasting patterns of prevalence, community composition and genetic structure in two genera of avian malaria parasites in southern Melanesia. Journal of Animal Ecology 84(4), 985-998 (IF: 4.827; Cited by 20)    
+Olsson-Pons, S, **Clark, NJ**, Ishtiaq, F and Clegg, SM. (2015) Differences in host species relationships and biogeographical influences produce contrasting patterns of prevalence, community composition and genetic structure in two genera of avian malaria parasites in southern Melanesia. *Journal of Animal Ecology* 84(4), 985-998. [PDF](https://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/olsson-pons_et_al-2015-journal_of_animal_ecology.pdf)  
   
-**Clark, NJ**, Adlard, RD and Clegg, SM. (2015) Molecular and morphological characterization of Haemoproteus (Parahaemoproteus) ptilotis, a parasite infecting Australian honeyeaters (Meliphagidae), with remarks on prevalence and potential cryptic speciation. Parasitology Research 114(5), 1921-1928 (IF: 2.027; Cited by 11)  
+**Clark, NJ**, Adlard, RD and Clegg, SM. (2015) Molecular and morphological characterization of *Haemoproteus* (*Parahaemoproteus*) *ptilotis*, a parasite infecting Australian honeyeaters (Meliphagidae), with remarks on prevalence and potential cryptic speciation. *Parasitology Research* 114(5), 1921-1928. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_et_al_paras_res_2015.pdf)  
   
-**Clark, NJ** and Clegg, SM. (2015) The influence of vagrant hosts and weather patterns on the colonisation and persistence of blood parasites in an island bird. Journal of Biogeography 42(4), 641-651 (IF: 3.997; Cited by 14)  
+**Clark, NJ** and Clegg, SM. (2015) The influence of vagrant hosts and weather patterns on the colonisation and persistence of blood parasites in an island bird. *Journal of Biogeography* 42(4), 641-651. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_and_cleggjbi_proofs.pdf)  
   
 
 **2014**  
-**Clark, NJ**, Adlard, RD and Clegg, SM. (2014) First evidence of avian malaria in Capricorn Silvereyes (Zosterops lateralis chlorocephalus) on Heron Island. The Sunbird 44, 1-11 (no IF; Cited by 4)  
+**Clark, NJ**, Adlard, RD and Clegg, SM. (2014) First evidence of avian malaria in Capricorn Silvereyes (*Zosterops lateralis chlorocephalus*) on Heron Island. *The Sunbird* 44, 1-11 [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/sunbird_44_1__avian_malaria_author_copy.pdf)    
   
-**Clark, NJ**, Clegg, SM and Lima, MR. (2014) A review of global diversity in avian haemosporidians (Plasmodium and Haemoproteus: Haemosporida): new insights from molecular data. International Journal for Parasitology 44(5), 329-338 (IF: 4.242; Cited by 76)  
+**Clark, NJ**, Clegg, SM and Lima, MR. (2014) A review of global diversity in avian haemosporidians (Plasmodium and Haemoproteus: Haemosporida): new insights from molecular data. *International Journal for Parasitology* 44(5), 329-338 [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_et_al_ijp_2014_published_version.pdf)  
   
 
 **2012**  
-**Clark, NJ** and Russ, GR. (2012) Ontogenetic shifts in the habitat associations of butterflyfishes (F. Chaetodontidae). Environmental Biology of Fishes 94, 579-590 (IF: 1.404; Cited by 6)
+**Clark, NJ** and Russ, GR. (2012) Ontogenetic shifts in the habitat associations of butterflyfishes (F. Chaetodontidae). *Environmental Biology of Fishes* 94, 579-590
 
 ## Publications in Review
-Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, Ctenocephalides felis: the hitchhiker’s guide to world domination. Molecular Phylogenetics and Evolution (1st submission 26/11/17)  
+Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, Ctenocephalides felis: the hitchhiker’s guide to world domination. *Molecular Phylogenetics and Evolution* (1st submission 26/11/17)  
   
-**Clark, NJ**, Wells, K, and Lindberg, O. Unravelling changing interspecific interactions across environmental gradients using Markov random fields. Ecology (1st submission 23/10/17)  
+**Clark, NJ**, Wells, K, and Lindberg, O. Unravelling changing interspecific interactions across environmental gradients using Markov random fields. *Ecology* (1st submission 23/10/17)  
   
-Wells, K, Gibson, D, **Clark, NJ**, Ribas, A, Morand, S, and McCallum, H. Global spread of helminth parasites at the human-domestic animal-wildlife interface. Global Change Biology (1st revision submitted 08/07/17)  
-  
-**Clark, NJ**. Tropical niche conservatism does not explain global diversity of avian blood parasites. Global Ecology and Biogeography (1st submission 02/11/17)
+**Clark, NJ**. Tropical niche conservatism does not explain global diversity of avian blood parasites. *Global Ecology and Biogeography* (1st revision 21/12/17)
 
 ## Service and Discipline Involvement
 **Service**  
@@ -158,23 +156,25 @@ Wells, K, Gibson, D, **Clark, NJ**, Ribas, A, Morand, S, and McCallum, H. Global
 
 **Referee**  	
   
-* Ecology Letters
-* Molecular Biology and Evolution
-* Evolutionary Ecology
-* Journal of Biogeography
-* International Journal for Parasitology
-* Journal of Parasitology
-* Journal of Animal Ecology
-* Infection, Genetics and Evolution
-* Parasitology
-* Malaria Journal
-* Parasites & Vectors
+* *Ecology Letters*
+* *Molecular Biology and Evolution*
+* *Evolutionary Ecology*
+* *Journal of Biogeography*
+* *International Journal for Parasitology*
+* *Journal of Parasitology*
+* *Journal of Animal Ecology*
+* *Infection, Genetics and Evolution*
+* *Parasitology*
+* *Malaria Journal*
+* *Parasites & Vectors*
 
 **Memberships**  
   
 * BirdLife Australia
 * Australian Society for Parasitology
 * Wildlife Disease Association
+
+\pagebreak
 
 ## Funding Support
 **2017**  

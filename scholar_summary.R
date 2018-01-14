@@ -9,8 +9,8 @@ ggplot2:: ggplot(cit, ggplot2::aes(x = year, y = cites))+
   ggplot2::theme_bw()+
   ggplot2::xlab('Year')+
   ggplot2::ylab('Google Scholar\n citations')+
-  ggplot2::annotate('text', label = format(Sys.time(), "%Y-%m-%d %H:%M:%S %Z"),
-           x = -Inf, y = Inf, vjust = 1.5, hjust = -0.04, size = 3) +
+  ggplot2::annotate('text', label = format(Sys.time(), "%Y-%m-%d"),
+           x = -Inf, y = Inf, vjust = 1.5, hjust = -0.08, size = 3) +
   ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 3, hjust = -0.05, 
                     label = paste('Total papers = ', tot),
                     size = 3) +
