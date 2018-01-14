@@ -73,13 +73,10 @@ I am a disease ecologist with expertise in molecular ecology and epidemiology. M
 My aptitude for research and disease ecology is reflected by my academic record. I have published 16 peer-reviewed papers, with four in review, including a top-cited review article that has driven development of novel pathogen biogeography hypotheses. Key contributions include producing insights into how dispersing hosts drive pathogen distributions (published in Journal of Biogeography, Oikos, Oecologia) and developing models to understand how host traits and climate affect pathogen compositions (published in Molecular Ecology, Journal of Animal Ecology, International Journal for Parasitology). My work has received international acclaim, with invitations to deliver lectures at two universities and oral presentations at two international conferences. I have trained four postgraduate students in bioinformatics and statistical techniques, and have acted as author or co-author for five successful funding proposals resulting in over $52000.
 
 ## Publications – Summary Data
-* Total peer-reviewed journal articles: 16 (4 currently in revision or review)
-* First author journal articles: 11
-* Total citations: 174 (Google Scholar)
-* H‐index: 7 (Google Scholar)
-* i10-index: 5 (Google Scholar)
-
-\pagebreak
+```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4, message=FALSE, warning=FALSE}
+source('scholar_summary.R')
+scholar_summary(user = '5bO9uxEAAAAJ')
+```
 
 ## Summaries of Key Publications
 **Clark, NJ** and Clegg, SM (2017) Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. Molecular Ecology 26(11), 3074-3086  
@@ -94,11 +91,15 @@ Used Bayesian multivariate regressions to show that parasite interactions and bi
   
 Conducted a systematic meta-analysis to quantify global parasite diversity patterns and generate future sampling directions. Called “a classic in the field” by a thesis examiner, this is the 2nd most cited of 135 articles published using the keyword “avian malaria” since 2014 (77 citations).
 
+\pagebreak
+
 ## Full Publication List
 **2018**  
+Wells, L, Gibson, DI, **Clark, NJ**, Ribas, A, Morand, S, McCallum, H. Global spread of helminth parasites at the human – domestic animal – wildlife interface. (2018). *Global Change Biology* accepted 13/01/18  
+  
 **Clark, NJ**, Seddon, JM, Kyaw‐Tanner, M, Al-Alawneh, J, Harper, G, McDonagh, P, and Meers, J. Emergence of canine parvovirus subtype 2b (CPV-2b) infections in Australian dogs. Infection, Genetics and Evolution DOI: 10.1016/j.meegid.2017.12.013  
   
-**Clark, NJ**, Seddon, JM, Šlapeta, J, and Wells, K. Parasite spread at the domestic animal - wildlife interface: anthropogenic habitat use, phylogeny and body mass drive risk of cat and dog flea (Ctenocephalides spp.) infestation in wild mammals. Parasites & Vectors DOI: 10.1186/s13071-017-2564-z  
+**Clark, NJ**, Seddon, JM, Šlapeta, J, and Wells, K. Parasite spread at the domestic animal - wildlife interface: anthropogenic habitat use, phylogeny and body mass drive risk of cat and dog flea (Ctenocephalides spp.) infestation in wild mammals. Parasites & Vectors DOI: 10.1186/s13071-017-2564-z. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_infgenevol_2018.pdf)    
   
 
 **2017**  
