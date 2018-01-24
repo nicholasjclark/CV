@@ -323,8 +323,7 @@ Despite only completing my PhD in the last 18 months, I have published 15 peer-r
 * Dr Sonya Clegg, Oxford University; sonya.clegg@zoo.ox.ac.uk 
 * Prof Marcel Klaassen, Deakin University; marcel.klaassen@deakin.edu.au
 
-```{r eval=FALSE,echo=FALSE}
-rmarkdown::render('docs/README.Rmd',
-                  knit_root_dir = "~/Google Drive/Academic Work Folder/Academic CV",
-                  output_file = 'NicholasClarkCV.pdf')
+```{r echo=FALSE}
+rmarkdown::render('docs/README.md',
+                  output_file = '~/Google Drive/Academic Work Folder/Academic CV/NicholasClarkCV.html')
 ```

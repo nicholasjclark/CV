@@ -328,3 +328,10 @@ Referees
 -   Dr Robert Adlard, Queensland Museum; <robert.adlard@qm.qld.gov.au>
 -   Dr Sonya Clegg, Oxford University; <sonya.clegg@zoo.ox.ac.uk>
 -   Prof Marcel Klaassen, Deakin University; <marcel.klaassen@deakin.edu.au>
+
+<!-- -->
+
+    ## /Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS README.utf8.md --to html --from markdown+autolink_bare_uris+ascii_identifiers+tex_math_single_backslash --output pandoc9df0486342f5.html --smart --email-obfuscation none --self-contained --standalone --section-divs --template /Library/Frameworks/R.framework/Versions/3.3/Resources/library/rmarkdown/rmd/h/default.html --no-highlight --variable highlightjs=1 --variable 'theme:bootstrap' --include-in-header /var/folders/lw/w1j5myxj617f3k0y9l7ngpcw0000gn/T//Rtmpdxmkgw/rmarkdown-str9df019423017.html --mathjax --variable 'mathjax-url:https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'
+
+    ## 
+    ## Output created: ~/Google Drive/Academic Work Folder/Academic CV/NicholasClarkCV.html
