@@ -72,20 +72,20 @@ I am a disease ecologist with expertise in molecular ecology and epidemiology. M
   
 My aptitude for research and disease ecology is reflected by my academic record. I have published 17 peer-reviewed papers, with four in review, including a top-cited review article that has driven development of novel pathogen biogeography hypotheses. Key contributions include producing insights into how dispersing hosts drive pathogen distributions (published in *Journal of Biogeography*, *Oikos*, *Oecologia*) and developing models to understand how host traits and climate affect pathogen compositions (published in *Molecular Ecology*, *Journal of Animal Ecology*, *International Journal for Parasitology*). My work has received international acclaim, with invitations to deliver lectures at two universities and oral presentations at two international conferences. I have trained four postgraduate students in bioinformatics and statistical techniques, and have acted as author or co-author for five successful funding proposals resulting in over $52000.
 
-## Publications – Summary Data
+## Summary Citation Metrics
 ```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4, message=FALSE, warning=FALSE}
 source('scholar_summary.R')
 scholar_summary(user = '5bO9uxEAAAAJ')
 ```
 
-## Summaries of Key Publications
+## Contributions by Key Publications
 **Clark, NJ** and Clegg, SM (2017) Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. *Molecular Ecology*   
   
 Developed a novel phylogenetic host-specificity metric that integrates multiple sources of information, providing a more in-depth understanding of parasite infection patterns.  
   
 **Clark, NJ** et al. (2016) Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. *Journal of Animal Ecology*  
   
-Used Bayesian multivariate regressions to show that parasite interactions and biogeographical structure combine to influence malaria infection rates in wild birds. This finding was well-received, securing an invited oral presentation at the 2015 Evolutionary Ecology of Infectious Diseases Conference (Georgia, USA).  
+Used Bayesian joint species distribution modelling to show that parasite interactions and biogeographical structure combine to influence malaria infection rates in wild birds. This finding was well-received, securing an invited oral presentation at the 2015 Evolutionary Ecology of Infectious Diseases Conference (Georgia, USA).  
   
 **Clark, NJ** et al. (2014) A review of global diversity in avian haemosporidians (*Plasmodium* and *Haemoproteus*: Haemosporida): new insights from molecular data. *International Journal for Parasitology*   
   

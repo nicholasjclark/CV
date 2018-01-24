@@ -1,5 +1,5 @@
 scholar_summary = function(user){
-require(scholar)
+library(scholar)
 cit <- scholar::get_citation_history(user)
 tot <- scholar::get_num_articles(user) 
 prof <- scholar::get_profile(user)
