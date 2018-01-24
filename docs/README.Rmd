@@ -322,8 +322,3 @@ Despite only completing my PhD in the last 18 months, I have published 15 peer-r
 * Dr Robert Adlard, Queensland Museum; robert.adlard@qm.qld.gov.au
 * Dr Sonya Clegg, Oxford University; sonya.clegg@zoo.ox.ac.uk 
 * Prof Marcel Klaassen, Deakin University; marcel.klaassen@deakin.edu.au
-
-```{r echo=FALSE}
-rmarkdown::render('docs/README.md',
-                  output_file = '~/Google Drive/Academic Work Folder/Academic CV/NicholasClarkCV.html')
-```
