@@ -1,10 +1,11 @@
 ---
-output: pdf_document
+output: html_document
 urlcolor: blue
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "~/Google Drive/Academic Work Folder/Academic CV")
 ```
 Dr Nicholas J Clark
 =============================
@@ -74,7 +75,7 @@ My aptitude for research and disease ecology is reflected by my academic record.
 
 ## Summary Citation Metrics
 ```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4, message=FALSE, warning=FALSE}
-source('scholar_summary.R')
+source('R/scholar_summary.R')
 scholar_summary(user = '5bO9uxEAAAAJ')
 ```
 
@@ -321,3 +322,9 @@ Despite only completing my PhD in the last 18 months, I have published 15 peer-r
 * Dr Robert Adlard, Queensland Museum; robert.adlard@qm.qld.gov.au
 * Dr Sonya Clegg, Oxford University; sonya.clegg@zoo.ox.ac.uk 
 * Prof Marcel Klaassen, Deakin University; marcel.klaassen@deakin.edu.au
+
+```{r eval=FALSE,echo=FALSE}
+rmarkdown::render('docs/README.Rmd',
+                  knit_root_dir = "~/Google Drive/Academic Work Folder/Academic CV",
+                  output_file = 'NicholasClarkCV.pdf')
+```
