@@ -138,9 +138,9 @@ Olsson-Pons, S, **Clark, NJ**, Ishtiaq, F and Clegg, SM. (2015) Differences in h
 Publications in Review
 ----------------------
 
-Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specificity: phylogenetic and functional diversity of regional host species pools matter. *Ecography* (1st submission 25/01/18)
-
 **Clark, NJ** and Soares Magalhães, RJ. Airborne geographical dispersal of Q Fever from livestock holdings to human communities: a systematic review and critical appraisal of evidence. *Journal of Infectious Diseases* (1st submission 24/01/18)
+
+Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specificity: phylogenetic and functional diversity of regional host species pools matter. *Ecography* (1st submission 25/01/18)
 
 Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, Ctenocephalides felis: the hitchhiker’s guide to world domination. *Molecular Phylogenetics and Evolution* (1st submission 26/11/17)
 
