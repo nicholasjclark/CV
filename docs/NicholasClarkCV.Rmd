@@ -97,7 +97,11 @@ Conducted a systematic meta-analysis to quantify global parasite diversity patte
 ## Full Publication List
 **2018**  
   
-Wells, L, Gibson, DI, **Clark, NJ**, Ribas, A, Morand, S, McCallum, H. Global spread of helminth parasites at the human – domestic animal – wildlife interface. (2018). *Global Change Biology* DOI: 10.1111/gcb.14064. [PDF](http://onlinelibrary.wiley.com/doi/10.1111/gcb.14064/abstract?systemMessage=Wiley+Online+Library+is+migrating+to+a+new+platform+powered+by+Atypon%2C+the+leading+provider+of+scholarly+publishing+platforms.+The+new+Wiley+Online+Library+will+be+migrated+over+the+weekend+of+February+24+and+25+and+will+be+live+on+February+26%2C+2018.+For+more+information%2C+please+visit+our+migration+page%3Ahttp%3A%2F%2Fwww.wileyactual.com%2FWOLMigration%2F)
+**Clark, NJ**, Wells, K, and Lindberg, O. Unravelling changing interspecific interactions across environmental gradients using Markov random fields. *Ecology* (accepted 02/03/18)  
+  
+**Clark, NJ**. Phylogenetic uniqueness, not latitude, explains the diversity of avian blood parasite communities worldwide. *Global Ecology and Biogeography* (accepted 27/02/18)  
+  
+Wells, L, Gibson, DI, **Clark, NJ**, Ribas, A, Morand, S, McCallum, H. Global spread of helminth parasites at the human – domestic animal – wildlife interface. (2018). *Global Change Biology* DOI: 10.1111/gcb.14064. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf)
   
 **Clark, NJ**, Seddon, JM, Kyaw‐Tanner, M, Al-Alawneh, J, Harper, G, McDonagh, P, and Meers, J. Emergence of canine parvovirus subtype 2b (CPV-2b) infections in Australian dogs. *Infection, Genetics and Evolution* DOI: 10.1016/j.meegid.2017.12.013. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_infgenevol_2018.pdf)  
   
@@ -134,7 +138,6 @@ Olsson-Pons, S, **Clark, NJ**, Ishtiaq, F and Clegg, SM. (2015) Differences in h
   
 **Clark, NJ** and Clegg, SM. (2015) The influence of vagrant hosts and weather patterns on the colonisation and persistence of blood parasites in an island bird. *Journal of Biogeography* 42(4), 641-651. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_and_cleggjbi_proofs.pdf)  
   
-\pagebreak
 
 **2014**  
   
@@ -154,9 +157,6 @@ Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specifi
   
 Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, Ctenocephalides felis: the hitchhiker’s guide to world domination. *Molecular Phylogenetics and Evolution* (1st submission 26/11/17)  
   
-**Clark, NJ**, Wells, K, and Lindberg, O. Unravelling changing interspecific interactions across environmental gradients using Markov random fields. *Ecology* (2nd revision 21/02/18)  
-  
-**Clark, NJ**. Phylogenetic uniqueness, not latitude, explains the diversity of avian blood parasite communities worldwide. *Global Ecology and Biogeography* (2nd revision 20/02/18)
 
 ## Service and Discipline Involvement
 **Service**  
@@ -179,13 +179,6 @@ Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amic
 * *Parasitology*
 * *Malaria Journal*
 * *Parasites & Vectors*
-
-**Memberships**  
-  
-* BirdLife Australia
-* Australian Society for Parasitology
-* Wildlife Disease Association
-
 
 ## Funding Support
 **2017**  
