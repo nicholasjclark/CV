@@ -65,32 +65,10 @@ Professional Experience
 -   Improved workflow efficiency by preparing reagents for three diagnostic laboratories
 -   Cultured in-house microbe strains and carried out quality control testing
 
-Career Overview
----------------
-
-I am a disease ecologist with expertise in molecular ecology and epidemiology. My PhD research into the distributions and community assembly patterns of parasites led to new discoveries about parasite evolution and helped steer a global surge in evolutionary avian malaria research. Following my PhD, I worked on short-term contracts as a Postdoctoral Fellow at University of Queensland, where I have expanded my expertise in parasite biogeography, taken on co-supervisory roles and gained vital experience coordinating an undergraduate course. Through this work, I developed strong links with collaborators at Deakin University’s Centre for Integrative Ecology, University of Sydney’s School of Veterinary Science, Queensland Museum’s Biodiversity Program, Biosecurity Queensland and Griffith University’s School of Environment.
-
-My aptitude for research and disease ecology is reflected by my academic record. I have published 17 peer-reviewed papers, with four in review, including a top-cited review article that has driven development of novel pathogen biogeography hypotheses. Key contributions include producing insights into how dispersing hosts drive pathogen distributions (published in *Journal of Biogeography*, *Oikos*, *Oecologia*) and developing models to understand how host traits and climate affect pathogen compositions (published in *Ecology*, *Molecular Ecology*, *Journal of Animal Ecology*, *Global Ecology and Biogeography*). My work has received international acclaim, with invitations to deliver lectures at two universities and oral presentations at two international conferences. I have trained four postgraduate students in bioinformatics and statistical techniques, and have acted as author or co-author for five successful funding proposals resulting in over $52000.
-
 Summary Citation Metrics
 ------------------------
 
 <img src="README_files/figure-markdown_github/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
-
-Contributions by Key Publications
----------------------------------
-
-**Clark, NJ** and Clegg, SM (2017) Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. *Molecular Ecology*
-
-Developed a novel phylogenetic host-specificity metric that integrates multiple sources of information, providing a more in-depth understanding of parasite infection patterns.
-
-**Clark, NJ** et al. (2016) Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. *Journal of Animal Ecology*
-
-Used Bayesian joint species distribution modelling to show that parasite interactions and biogeographical structure combine to influence malaria infection rates in wild birds. This finding was well-received, securing an invited oral presentation at the 2015 Evolutionary Ecology of Infectious Diseases Conference (Georgia, USA).
-
-**Clark, NJ** et al. (2014) A review of global diversity in avian haemosporidians (*Plasmodium* and *Haemoproteus*: Haemosporida): new insights from molecular data. *International Journal for Parasitology*
-
-Conducted a systematic meta-analysis to quantify global parasite diversity patterns and generate future sampling directions. Called “a classic in the field” by a thesis examiner, this is the 2nd most cited of 135 articles published using the keyword “avian malaria” since 2014.
 
 Full Publication List
 ---------------------
@@ -182,20 +160,25 @@ Funding Support
 ---------------
 
 **2017**
+
 **$US18,400**: National Geographic Scientific Research Grant (co-authored the proposal). Tracing the spillover of fleas and paralysis ticks between wildlife and domestic pets in Australia
 
 **2015**
+
 **$AU4,975**: Birds Queensland Research Award (co-authored the proposal). The role of invasive birds as carriers of exotic pathogens; implications for co-occurring native birds
 
 **$AU3,125**: BirdLife Australia Stuart Leslie Bird Research Award (authored the proposal). Enemy release or novel weapons: malaria’s role in the spread of the invasive Indian Myna
 
 **2014**
+
 **$AU2,000**: Griffith University Environmental fund for impactful publications
 
 **2013**
+
 **$US20,250**: National Geographic Scientific Research Grant (co-authored the proposal). Avian malaria in southern Melanesian birds
 
 **2012**
+
 **$AU3,750**: BirdLife Australia Stuart Leslie Bird Research Award (authored the proposal). Avian malaria lineage distribution, diversity and host specificity in southeast Queensland
 
 **$AU5,000**: Birds Queensland Research Award (authored the proposal). The prevalence, distribution and diversity of avian malaria parasites in southeast Queensland
@@ -206,6 +189,7 @@ Teaching Contributions
 ----------------------
 
 **2017**
+
 **University of Queensland**, Gatton Campus: Ecological and Disease Genetics (Course Coordinator)
 Undergraduate (3rd year Science), semester 1
 
@@ -222,6 +206,7 @@ Undergraduate (Bachelor of Veterinary Medicine), semester 2
 -   Nominated for a ‘Golden Speculum’ Best Lecturer award for 2017
 
 **2016 - 17**
+
 **University of Queensland**, Gatton Campus: Molecular and Quantitative Plant Genetics; Molecular and Quantitative Animal Genetics (Lead tutor)
 Undergraduate (2nd year Science and 2nd year Agriculture), semester 2
 
@@ -229,6 +214,7 @@ Undergraduate (2nd year Science and 2nd year Agriculture), semester 2
 -   Marked assignments and liaised with course coordinators to enhance curriculums
 
 **2015 - 17**
+
 **University of Queensland**, Gatton Campus: Animal Breeding and Molecular Genetics; Animal Pathogens and Immunity; Principles of Disease (Assistant tutor)
 Undergraduate (2nd year Veterinary Science), semesters 1 and 2
 
@@ -236,6 +222,7 @@ Undergraduate (2nd year Veterinary Science), semesters 1 and 2
 -   Marked assignments
 
 **2013**
+
 **Griffith University**, Gold Coast Campus: Ecology; Earth Sciences (Assistant tutor)
 Undergraduate (2nd year Science), semester 2
 
@@ -245,32 +232,40 @@ Mentoring And Research Training
 -------------------------------
 
 **2017 - present**
+
 Co-supervising UQ PhD student (A. McGowan), studying population genomics of dugongs. This student is developing novel landscape genetics analyses and recently qualified for Faculty-level heats in the UQ Three Minute Thesis competition
 
 **2016 - present**
+
 Co-supervising UQ PhD student (T. Proboste), studying population genomics and host-parasite interactions in paralysis ticks. This student is adapting social science methods to study host-pathogen interactions, and has already presented at two conferences
 
 **2014 - 16**
+
 Trained UQ PhD student (W. Goulding) in molecular techniques and aided project design, resulting in two collaborative papers (both in Parasitology Research) and one successful co-authored grant proposal (Birds Queensland; $AU4975)
 
 **2014**
+
 Trained Deakin University PhD student (Y. Aharon-Rotman) in Bayesian phylogenetic modelling, resulting in one collaborative paper (Oecologia)
 
 **2012 - 13**
+
 Trained Griffith University honour’s student (S. Olsson-Pons) in bioinformatics, resulting in two collaborative papers (Journal of Animal Ecology; International Journal for Parasitology)
 
 Presentations and Societal Impacts
 ----------------------------------
 
 **2017**
+
 Oral presentation: Australian Society for Parasitology Conference, Leura, Australia
 
 **2016**
+
 Research used to frame a Question Without Notice in NSW Parliament, from Shooters and Fishers Party MP to the Minister for Primary Industries
 
 Oral presentation: Griffith University Wildlife Disease Ecology Group, Brisbane, Australia
 
 **2015**
+
 Interviewed on ABC Radio National and ABC Radio Gold Coast regarding research on exotic malaria strains spread by invasive birds
 
 Interviewed for feature stories in the Australian Society for Parasitology quarterly newsletter and in Australian Birdlife regarding research on avian malaria in Australian birds
@@ -284,6 +279,7 @@ Oral presentation: Griffith University Wildlife Disease Ecology Group, Brisbane,
 Poster presentation: Wildlife Disease Association Conference, Sunshine Coast, Australia
 
 **2014**
+
 Oral presentation: Queensland Ornithological Society, Brisbane, Australia
 
 Oral presentation: Australian Society for Parasitology Concepts in Parasitology Workshop, Canberra, Australia.
@@ -291,6 +287,7 @@ Oral presentation: Australian Society for Parasitology Concepts in Parasitology 
 Taught diagnostic techniques to students in a Parasitology High School Outreach Program at Ulladulla High School, Ulladulla, NSW, Australia
 
 **2013**
+
 Oral presentation: Centre for Integrative Ecology, Deakin University, Geelong, Australia
 
 Poster presentation: Malaria and Related Haemosporidians of Wildlife International Conference, Vilnius, Lithuania
@@ -299,21 +296,27 @@ Honours and Awards
 ------------------
 
 **2017**
+
 Invited to act as co-chair for a Wildlife Parasitology session at the Australian Society for Parasitology Conference, Leura, Australia
 
 **2016**
+
 Research article featured on the cover and on the Editor’s Choice list at International Journal for Parasitology
 
 **2014**
+
 1st place oral presentation; Griffith University School of Environment Student Symposium
 
 **2014**
+
 Accepted for competitive placement with travel funds; Australian Society for Parasitology Concepts in Parasitology Workshop, Canberra, Australia
 
 **2012**
+
 2nd place oral presentation; Griffith University School of Environment Student Symposium
 
 **2012**
+
 Accepted for competitive placement with travel funds; Malaria RCN Student Workshop, Virginia, USA
 
 Relative to Opportunity
