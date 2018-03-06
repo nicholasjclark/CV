@@ -68,29 +68,11 @@ Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field ob
 * Improved workflow efficiency by preparing reagents for three diagnostic laboratories 
 * Cultured in-house microbe strains and carried out quality control testing 
 
-## Career Overview 
-I am a disease ecologist with expertise in molecular ecology and epidemiology. My PhD research into the distributions and community assembly patterns of parasites led to new discoveries about parasite evolution and helped steer a global surge in evolutionary avian malaria research. Following my PhD, I worked on short-term contracts as a Postdoctoral Fellow at University of Queensland, where I have expanded my expertise in parasite biogeography, taken on co-supervisory roles and gained vital experience coordinating an undergraduate course. Through this work, I developed strong links with collaborators at Deakin University’s Centre for Integrative Ecology, University of Sydney’s School of Veterinary Science, Queensland Museum’s Biodiversity Program, Biosecurity Queensland and Griffith University’s School of Environment.  
-  
-My aptitude for research and disease ecology is reflected by my academic record. I have published 17 peer-reviewed papers, with four in review, including a top-cited review article that has driven development of novel pathogen biogeography hypotheses. Key contributions include producing insights into how dispersing hosts drive pathogen distributions (published in *Journal of Biogeography*, *Oikos*, *Oecologia*) and developing models to understand how host traits and climate affect pathogen compositions (published in *Ecology*, *Molecular Ecology*, *Journal of Animal Ecology*, *Global Ecology and Biogeography*). My work has received international acclaim, with invitations to deliver lectures at two universities and oral presentations at two international conferences. I have trained four postgraduate students in bioinformatics and statistical techniques, and have acted as author or co-author for five successful funding proposals resulting in over $52000.
-
 ## Summary Citation Metrics
 ```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4, message=FALSE, warning=FALSE}
 source('R/scholar_summary.R')
 scholar_summary(user = '5bO9uxEAAAAJ')
 ```
-
-## Contributions by Key Publications
-**Clark, NJ** and Clegg, SM (2017) Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. *Molecular Ecology*   
-  
-Developed a novel phylogenetic host-specificity metric that integrates multiple sources of information, providing a more in-depth understanding of parasite infection patterns.  
-  
-**Clark, NJ** et al. (2016) Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. *Journal of Animal Ecology*  
-  
-Used Bayesian joint species distribution modelling to show that parasite interactions and biogeographical structure combine to influence malaria infection rates in wild birds. This finding was well-received, securing an invited oral presentation at the 2015 Evolutionary Ecology of Infectious Diseases Conference (Georgia, USA).  
-  
-**Clark, NJ** et al. (2014) A review of global diversity in avian haemosporidians (*Plasmodium* and *Haemoproteus*: Haemosporida): new insights from molecular data. *International Journal for Parasitology*   
-  
-Conducted a systematic meta-analysis to quantify global parasite diversity patterns and generate future sampling directions. Called “a classic in the field” by a thesis examiner, this is the 2nd most cited of 135 articles published using the keyword “avian malaria” since 2014.
 
 \pagebreak
 
