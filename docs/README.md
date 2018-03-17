@@ -9,7 +9,7 @@ Gatton, Queensland, Australia - <nicholas.j.clark1214@gmail.com> - 0432420979
 Career Summary
 --------------
 
-Flexible and engaging ecologist within interests in studying how pathogen communities reassemble, persist and function. Interested in working with scientists from different disciplines to develop broader skills and address challenging new questions in disease ecology.
+Flexible and engaging ecologist within interests in studying how pathogen communities assemble, persist and function. Interested in developing computational phylogenetic tools and adapting techniques from statistical network theory to study how parasites interact with their hosts across urban-wildlife gradients.
 
 Transferable Skills
 -------------------
