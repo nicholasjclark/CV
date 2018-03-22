@@ -5,7 +5,6 @@ urlcolor: blue
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-#knitr::opts_knit$set(root.dir = "~/Google Drive/Academic Work Folder/Academic CV")
 ```
 Dr Nicholas J Clark
 =============================
