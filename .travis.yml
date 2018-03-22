@@ -1,0 +1,16 @@
+language: r
+sudo: false
+cache: packages
+
+install:
+  - R -e "install.packages('devtools')"
+  - R -e "devtools::install_github('rstudio/rmarkdown')"
+  
+script:
+  - R -e "rmarkdown::render('./docs/NicholasClarkCV.Rmd')"
+  - R -e "rmarkdown::render('./docs/README.Rmd')"
+
+after_success:
+  - git add --all *
+  - git commit -m"Daily update"
+  - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
