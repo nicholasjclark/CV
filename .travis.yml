@@ -1,13 +1,8 @@
 language: r
-cache: packages
 
 install:
   - R -e "install.packages('devtools')"
   - R -e "devtools::install_github('rstudio/rmarkdown')"
-  
-before_script:
-  - chmod +x ./_build.sh
-  - chmod +x ./_deploy.sh
   
 script:
   - R -e "rmarkdown::render('NicholasClarkCV.Rmd')"
