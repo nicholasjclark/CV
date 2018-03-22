@@ -5,6 +5,7 @@ cache: packages
 install:
   - R -e "install.packages('devtools')"
   - R -e "install.packages('scholar')"
+  - R -e "install.packages('ggplot2')"
   - R -e "devtools::install_github('rstudio/rmarkdown')"
   
 script:
