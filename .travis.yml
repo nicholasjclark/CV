@@ -13,6 +13,6 @@ script:
   - R -e "rmarkdown::render('./docs/README.Rmd')"
 
 after_success:
-  - git add --all *
+  - git add -A
   - git commit -m"Daily update"
   - git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
