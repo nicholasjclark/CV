@@ -49,9 +49,9 @@ Professional Experience
 **Postdoctoral Fellow (7/2016 - 12/18)**
 **University of Queensland**, School of Veterinary Science
 
--   Co-supervising two PhD students in disease ecology and quantitative genetics
--   Conducting research into the spatio-temporal evolution of canine parvoviruses
 -   Leading a National Geographic-funded project on the spread of parasites at the human-wildlife interface
+-   Co-supervising two PhD students in disease ecology and quantitative genetics
+-   Developing computational phylogenetic tools and adapting techniques from statistical network theory to study species interactions
 
 **Research Assistant (1/2016 - 7/16)**
 **University of Queensland**, School of Veterinary Science (Adviser: Dr Steven Kopp)
@@ -137,6 +137,8 @@ Service and Discipline Involvement
 
 **Service**
 
+-   Active member of UQ School of Veterinary Science Research Committee
+-   Active member of UQ's Faculty of Science Equity, Diversity and Inclusion Committee
 -   Served as panel member to mark a UQ Honour’s thesis
 -   Contributed to teaching and assignment design for three undergraduate courses at the School of Veterinary Science
 -   Currently co-supervising two PhD students
