@@ -77,7 +77,7 @@ Full Publication List
 
 **Clark, NJ**, Wells, K, and Lindberg, O. Unravelling changing interspecific interactions across environmental gradients using Markov random fields. *Ecology* (accepted 02/03/18)
 
-**Clark, NJ**. Phylogenetic uniqueness, not latitude, explains the diversity of avian blood parasite communities worldwide. *Global Ecology and Biogeography* (accepted 27/02/18)
+**Clark, NJ**. Phylogenetic uniqueness, not latitude, explains the diversity of avian blood parasite communities worldwide. *Global Ecology and Biogeography* DOI: doi: 10.1111/geb.12741. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_geb_2018.pdf)
 
 Wells, L, Gibson, DI, **Clark, NJ**, Ribas, A, Morand, S, McCallum, H. Global spread of helminth parasites at the human – domestic animal – wildlife interface. (2018). *Global Change Biology* DOI: 10.1111/gcb.14064. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf)
 
