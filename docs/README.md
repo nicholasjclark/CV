@@ -14,7 +14,7 @@ Flexible and engaging ecologist within interests in studying how pathogen commun
 Transferable Skills
 -------------------
 
--   Strong communication skills: 19 publications in peer-reviewed journals; four presentations at international conferences
+-   Strong communication skills: 20 publications in peer-reviewed journals; four presentations at international conferences
 -   Broad field experience: supervised teams of field researchers in both terrestrial and marine habitats
 -   Extensive experience using script-based programming: proficient with frequentist and probabilistic statistical analyses; maintain two `R` packages for community ecology and landscape genetics research
 -   Aptitude for leadership: trained four postgraduate students in bioinformatics and statistical techniques
@@ -75,6 +75,8 @@ Full Publication List
 
 **2018**
 
+**Clark, NJ** and Soares Magalhães, RJ. Airborne geographical dispersal of Q Fever from livestock holdings to human communities: a systematic review and critical appraisal of evidence. *BMC Infectious Diseases* (accepted 05/05/18)
+
 **Clark, NJ**, Wells, K, and Lindberg, O. Unravelling changing interspecific interactions across environmental gradients using Markov random fields. *Ecology* (accepted 02/03/18)
 
 **Clark, NJ**. Phylogenetic uniqueness, not latitude, explains the diversity of avian blood parasite communities worldwide. *Global Ecology and Biogeography* DOI: doi: 10.1111/geb.12741. [PDF](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/clark_geb_2018.pdf)
@@ -126,8 +128,6 @@ Olsson-Pons, S, **Clark, NJ**, Ishtiaq, F and Clegg, SM. (2015) Differences in h
 Publications in Review
 ----------------------
 
-**Clark, NJ** and Soares Magalhães, RJ. Airborne geographical dispersal of Q Fever from livestock holdings to human communities: a systematic review and critical appraisal of evidence. *BMC Infectious Diseases* (1st submission 18/02/18)
-
 Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specificity: phylogenetic and functional diversity of regional host species pools matter. *Ecography* (1st submission 25/01/18)
 
 Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, Ctenocephalides felis: the hitchhiker’s guide to world domination. *Molecular Phylogenetics and Evolution* (1st submission 26/11/17)
@@ -157,6 +157,7 @@ Service and Discipline Involvement
 -   *Parasitology*
 -   *Malaria Journal*
 -   *Parasites & Vectors*
+-   *Evolutionary Applications*
 
 Funding Support
 ---------------
@@ -326,7 +327,7 @@ Relative to Opportunity
 
 I completed my undergraduate degree (Bachelor of Science; GPA 4.0) in 2009 and completed a Graduate Diploma by Research Methods in 2011 (High Distinction average). I began my PhD in February 2012 and finished in April 2016, delivering a thesis with six published chapters and two published appendices. My PhD work provided new insights into mechanisms driving the distributions of blood parasites in wild birds. I also gained a broad understanding of coexistence theory and its applications to community ecology, for instance by providing evidence that interspecific parasite interactions can influence infection rates.
 
-Following my PhD I have devoted much of my postdoctoral work to teaching and mentoring postgraduate research students. This has provided me with a set of leadership and organizational skills that I believe is unique among my peers. It also taught me to be proficient with the time that I do have available for research. Since winding down teaching in July last year, I have published seven papers and submitted another three, bringing my total to 19 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in Ecology and Biogeography. My research has also garnered international recognition. I was invited to present work on new statistical tools for studying parasite niche differentiation at the Australian Society for Parasitology’s 2017 International Conference, where I was also invited to act as co-chair for a wildlife parasitology session. Recently, I have been invited to act as guest editor for a [*Tropical Medicine and Infectious Disease* Special Issue](http://www.mdpi.com/journal/tropicalmed/special_issues/Medical_Geography) on disease patterns in a changing environment.
+Following my PhD I have devoted much of my postdoctoral work to teaching and mentoring postgraduate research students. This has provided me with a set of leadership and organizational skills that I believe is unique among my peers. It also taught me to be proficient with the time that I do have available for research. Since winding down teaching in July last year, I have published eight papers and submitted another two, bringing my total to 20 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in Ecology and Biogeography. My research has also garnered international recognition. I was invited to present work on new statistical tools for studying parasite niche differentiation at the Australian Society for Parasitology’s 2017 International Conference, where I was also invited to act as co-chair for a wildlife parasitology session. Recently, I have been invited to act as guest editor for a [*Tropical Medicine and Infectious Disease* Special Issue](http://www.mdpi.com/journal/tropicalmed/special_issues/Medical_Geography) on disease patterns in a changing environment.
 
 Referees
 --------
