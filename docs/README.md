@@ -80,7 +80,7 @@ Summary Citation Metrics
 Publications in Review
 ----------------------
 
-Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specificity: phylogenetic and functional diversity of regional host species pools matter (1st submission 25/01/18)
+Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specificity: phylogenetic and functional diversity of regional host species pools matter (1st revision 05/06/18)
 
 Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, Ctenocephalides felis: the hitchhiker’s guide to world domination (1st submission 26/11/17)
 
