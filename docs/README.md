@@ -53,10 +53,10 @@ Thesis: *The distribution and diversity of avian malaria parasites in Australian
 Professional Experience
 -----------------------
 
-**Postdoctoral Fellow (7/2016 - 12/18)**
+**Postdoctoral Fellow (7/2016 - 09/21)**
 **University of Queensland**, School of Veterinary Science
 
--   Leading a National Geographic-funded project on the spread of parasites at the human-wildlife interface
+-   Leading multiple funded projects to investigate the spread of zoonotic pathogens at the human-wildlife interface
 -   Co-supervising two PhD students in disease ecology and quantitative genetics
 -   Developing novel statistical network tools to study biotic interactions and their influences on infection risk
 
