@@ -20,7 +20,7 @@ Flexible and engaging disease ecologist with experience studying the geographica
 Transferable Skills
 -------------------
 
--   Strong communication skills: 21 publications in peer-reviewed journals; four presentations at international conferences
+-   Strong communication skills: 22 publications in peer-reviewed journals; five presentations at international conferences
 -   Broad field experience: supervised teams of field researchers in both terrestrial and marine habitats
 -   Extensive experience using script-based programming: proficient with frequentist and probabilistic statistical analyses; maintain two `R` packages for community ecology and landscape genetics research
 -   Aptitude for leadership: trained four postgraduate students in bioinformatics and statistical techniques
@@ -80,12 +80,14 @@ Summary Citation Metrics
 Publications in Review
 ----------------------
 
-Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, Ctenocephalides felis: the hitchhiker’s guide to world domination (1st revision 24/06/18)
-
-Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein, JD, Clegg, SM, **Clark, NJ**. Climate variation influences host specificity in avian malaria parasites (Submitted 21/08/18)
+Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, *Ctenocephalides felis*: the hitchhiker’s guide to world domination (1st submission 24/10/18)
 
 Full Publication List
 ---------------------
+
+**2019**
+
+Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein, JD, Clegg, SM, **Clark, NJ**. Climate variation influences host specificity in avian malaria parasites *Ecology Letters* (IF: 9.137; Accepted 29/11/18)
 
 **2018**
 
@@ -270,6 +272,8 @@ Presentations and Societal Impacts
 
 **2018**
 
+Oral presentation: Ecological Society of Australia Conference, Brisbane, Australia
+
 Oral presentation: Ministerio de Salud de Chile (MINSAL) Q Fever Delegation, Gatton, Australia
 
 **2017**
@@ -342,7 +346,7 @@ Relative to Opportunity
 
 I completed my undergraduate degree (Bachelor of Science; GPA 4.0) in 2009 and completed a Graduate Diploma by Research Methods in 2011 (High Distinction average). I began my PhD in February 2012 and finished in April 2016, delivering a thesis with six published chapters and two published appendices. My PhD work provided new insights into mechanisms driving the distributions of blood parasites in wild birds. I gained a solid theoretical background in multivariate statistics and spatial epidemiology, two fields that I believe currently sit at the nexus of zoonotic disease research.
 
-Following my PhD I have devoted much of my postdoctoral work to teaching and mentoring postgraduate research students. This has provided me with a set of leadership and organizational skills that I believe is unique among my peers. It also taught me to be proficient with the time that I have available for research. Since winding down teaching in July last year, I have published ten papers and submitted another two, bringing my total to 21 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in Disease Ecology. My research has also garnered international recognition. For example, I was invited to present work on new statistical tools for studying parasite niche differentiation at the Australian Society for Parasitology’s 2017 International Conference, where I was also invited to act as co-chair for a wildlife parasitology session. Recently, I have been invited to act as guest editor for a [*Tropical Medicine and Infectious Disease* Special Issue](http://www.mdpi.com/journal/tropicalmed/special_issues/Medical_Geography) on disease patterns in a changing environment.
+Following my PhD I have devoted much of my postdoctoral work to teaching and mentoring postgraduate research students. This has provided me with a set of leadership and organizational skills that I believe is unique among my peers. It also taught me to be proficient with the time that I have available for research. Since winding down teaching in July 2017, I have published eleven papers, bringing my total to 22 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in Disease Ecology. My research has also garnered international recognition. For example, I was invited to present work on new statistical tools for studying parasite niche differentiation at the Australian Society for Parasitology’s 2017 International Conference, where I was also invited to act as co-chair for a wildlife parasitology session. Recently, I have been invited to act as guest editor for a [*Tropical Medicine and Infectious Disease* Special Issue](http://www.mdpi.com/journal/tropicalmed/special_issues/Medical_Geography) on disease patterns in a changing environment.
 
 Referees
 --------
