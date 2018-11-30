@@ -82,12 +82,14 @@ Publications in Review
 
 Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, *Ctenocephalides felis*: the hitchhiker’s guide to world domination (1st submission 24/10/18)
 
+Wells, K, and **Clark, NJ**. Towards predicting host shifting by multi-host pathogens (1st submission 29/11/18)
+
 Full Publication List
 ---------------------
 
 **2019**
 
-Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein, JD, Clegg, SM, **Clark, NJ**. Climate variation influences host specificity in avian malaria parasites *Ecology Letters* (IF: 9.137; Accepted 29/11/18)
+Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein, JD, Clegg, SM, and **Clark, NJ**. Climate variation influences host specificity in avian malaria parasites *Ecology Letters* (IF: 9.137; Accepted 29/11/18)
 
 **2018**
 
