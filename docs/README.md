@@ -84,6 +84,10 @@ Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amic
 
 Wells, K, and **Clark, NJ**. Towards predicting host shifting by multi-host pathogens (1st submission 29/11/18)
 
+Fountain-Jones, NM, **Clark, NJ**, Kinsley, AC, Carstensen, M, Johnson, TJ, Forester, J, Miller, E, Moore, S, Wolf, TM and Craft, ME. Microbial associations and spatial proximity predict North American moose (*Alces alces*) gastrointestinal community composition (1st submission 07/01/19)
+
+Proboste, T, Corvalan, P, **Clark, NJ**, Beyer, HL, Goldizen, AW and Seddon, JM. Commensal bacterial sharing is not predicted by host social association in kangaroos: implications for disease transmission networks (1st submission 12/12/18)
+
 Full Publication List
 ---------------------
 
