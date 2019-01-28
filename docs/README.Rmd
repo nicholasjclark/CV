@@ -25,7 +25,7 @@ Flexible and engaging disease ecologist with experience studying the geographica
 * Broad field experience: supervised teams of field researchers in both terrestrial and marine habitats
 * Extensive experience using script-based programming: proficient with frequentist and probabilistic statistical analyses; maintain two `R` packages for community ecology and landscape genetics research
 * Aptitude for leadership: trained four postgraduate students in bioinformatics and statistical techniques
-* Proven ability to obtain funding: $52000 external funding from domestic and international organisations
+* Proven ability to obtain funding: $87000 external funding from domestic and international organisations
 * Proficient programming with: `R`, `html`, `MATLAB`, `Markdown`, `git`
 
 ## Qualifications
@@ -78,25 +78,27 @@ source('scholar_summary.R')
 scholar_summary(user = '5bO9uxEAAAAJ')
 ```
 
+\pagebreak
+
 ## Publications in Review
-Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, *Ctenocephalides felis*: the hitchhiker’s guide to world domination (1st submission 24/10/18)  
+Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, *Ctenocephalides felis*: the hitchhiker’s guide to world domination (1st revision 30/01/19)  
   
 Wells, K, and **Clark, NJ**. Towards predicting host shifting by multi-host pathogens (1st submission 29/11/18)  
   
 Fountain-Jones, NM, **Clark, NJ**, Kinsley, AC, Carstensen, M, Johnson, TJ, Forester, J, Miller, E, Moore, S, Wolf, TM and Craft, ME. Microbial associations and spatial proximity predict North American moose (*Alces alces*) gastrointestinal community composition (1st submission 07/01/19)  
   
-Proboste, T, Corvalan, P, **Clark, NJ**, Beyer, HL, Goldizen, AW and Seddon, JM. Commensal bacterial sharing is not predicted by host social association in kangaroos: implications for disease transmission networks (1st submission 12/12/18) 
+Proboste, T, Corvalan, P, **Clark, NJ**, Beyer, HL, Goldizen, AW and Seddon, JM. Commensal bacterial sharing is not predicted by host social association in kangaroos: implications for disease transmission networks (1st revision 12/01/19) 
 
 \pagebreak
 
 ## Full Publication List
 **2019**  
   
-Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein, JD, Clegg, SM, and **Clark, NJ**. Climate variation influences host specificity in avian malaria parasites *Ecology Letters* (IF: 9.137; Accepted 29/11/18)  
+Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein, JD, Clegg, SM, and **Clark, NJ**. Climate variation influences host specificity in avian malaria parasites *Ecology Letters* DOI: 10.1111/ele.13215 (IF: 9.137)  
   
 **2018**  
   
-Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specificity: phylogenetic and functional diversity of regional host species pools matter. *Ecography* DOI:10.1111/ecog.03886 (IF: 4.520)  
+Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specificity: phylogenetic and functional diversity of regional host species pools matter. *Ecography* DOI: 10.1111/ecog.03886 (IF: 4.520)  
   
 
 **Clark, NJ** and Soares Magalhães, RJ. Airborne geographical dispersal of Q Fever from livestock holdings to human communities: a systematic review and critical appraisal of evidence. *BMC Infectious Diseases* DOI: 10.1186/s12879-018-3135-4 (IF: 2.678)   
@@ -184,6 +186,10 @@ Olsson-Pons, S, **Clark, NJ**, Ishtiaq, F and Clegg, SM. Differences in host spe
 \pagebreak
 
 ## Funding Support
+**2019**  
+  
+**$AU35,090**: University of Queensland Early Career Researcher Grant (authored the proposal). TickAlert: development of an integrated early warning surveillance platform for tick paralysis
+  
 **2017**  
   
 **$US18,400**: National Geographic Scientific Research Grant (co-authored the proposal). Tracing the spillover of fleas and paralysis ticks between wildlife and domestic pets in Australia  
