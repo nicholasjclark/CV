@@ -19,7 +19,7 @@ ggplot2:: ggplot(cit, ggplot2::aes(x = year, y = cites)) +
                     label = paste('Total papers = ', tot),
                     size = 3) +
   ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 4.5, hjust = -0.05, 
-           label = paste('Total ciatations = ', sum(cit$cites)),
+           label = paste('Total citations = ', sum(cit$cites)),
            size = 3) +
   ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 6, hjust = -0.12, 
                     label = paste('h_index = ', prof$h_index),
