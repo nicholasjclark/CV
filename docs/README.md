@@ -5,384 +5,620 @@
 
 
 
-Dr Nicholas J Clark
-===================
+# Dr Nicholas J Clark
 
-Postdoctoral Fellow - University of Queensland, School of Veterinary Science
-Gatton, Queensland, Australia - <nicholas.j.clark1214@gmail.com> - 0432420979
-[Homepage](http://nicholasjclark.weebly.com/) - [Github](https://github.com/nicholasjclark) - [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op=list_works&gmla=AJsN-F7bdYY9zcTVOHPEOVWZOJmCtgWpcxs_93x6Nxu1saXGdZjQLZ9byuM7Bdln9uk-HvNvAG1pThmdF6m_XgubeW0Q2sVTsjvpgou00G94hSHvb99iNTk) - [ResearchGate](https://www.researchgate.net/profile/Nicholas_Clark4)
+Postdoctoral Fellow - University of Queensland, School of Veterinary
+Science  
+Gatton, Queensland, Australia - <nicholas.j.clark1214@gmail.com> -
+0432420979  
+[Homepage](http://nicholasjclark.weebly.com/) -
+[Github](https://github.com/nicholasjclark) - [Google
+Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op=list_works&gmla=AJsN-F7bdYY9zcTVOHPEOVWZOJmCtgWpcxs_93x6Nxu1saXGdZjQLZ9byuM7Bdln9uk-HvNvAG1pThmdF6m_XgubeW0Q2sVTsjvpgou00G94hSHvb99iNTk)
+- [ResearchGate](https://www.researchgate.net/profile/Nicholas_Clark4)
 
-Career Summary
---------------
+## Career Summary
 
-Flexible and engaging disease ecologist with experience studying the geographical and biotic determinants of pathogen transmission. Interested in developing computational phylogenetic tools and adapting techniques from statistical network theory to study how pathogens interact with their hosts across urbanisation gradients.
+Flexible and engaging disease ecologist with experience studying the
+geographical and biotic determinants of pathogen transmission.
+Interested in developing computational phylogenetic tools and adapting
+techniques from statistical network theory to study how pathogens
+interact with their hosts across urbanisation gradients.
 
-Transferable Skills
--------------------
+## Transferable Skills
 
--   Strong communication skills: 25 publications in peer-reviewed journals; six international presentations
--   Broad teaching experience: coordinated three undergraduate genetics courses
--   Extensive experience in bioinformatics: maintain two `R` packages for molecular genetics and ecology research
--   Aptitude for leadership: trained six postgraduate students in bioinformatics and statistical techniques
--   Proven ability to obtain funding: $237000 external funding from domestic and international organisations
--   Industry networking experience: helped secured data-sharing partnerships and developing joint proposals with three industry partners and one Australian government partner
--   Proficient programming with: `R`, `html`, `MATLAB`, `Markdown`, `git`
+  - Strong communication skills: 27 publications in peer-reviewed
+    journals; six international presentations
+  - Broad teaching experience: coordinated three undergraduate genetics
+    courses
+  - Extensive experience in bioinformatics: maintain two `R` packages
+    for molecular genetics and ecology research
+  - Aptitude for leadership: trained six postgraduate students in
+    bioinformatics and statistical techniques
+  - Proven ability to obtain funding: $237000 external funding from
+    domestic and international organisations
+  - Industry networking experience: helped secured data-sharing
+    partnerships and developing joint proposals with three industry
+    partners and one Australian government partner
+  - Proficient programming with: `R`, `html`, `MATLAB`, `Markdown`,
+    `git`
 
-Qualifications
---------------
+## Qualifications
 
-**PhD**
-**Griffith University** (Supervisors: Dr Sonya Clegg, Dr Robert Adlard, Prof. Hamish McCallum)
-Thesis: *The distribution and diversity of avian malaria parasites in Australian and Southern Melanesian birds*
+**PhD**  
+**Griffith University** (Supervisors: Dr Sonya Clegg, Dr Robert Adlard,
+Prof. Hamish McCallum)  
+Thesis: *The distribution and diversity of avian malaria parasites in
+Australian and Southern Melanesian birds*
 
--   Led field expeditions in diverse habitats on four islands in New Caledonia and across two Australian states
--   Acquired extensive experience programming epidemiological analyses for multistructure datasets using both frequentist and Bayesian techniques
--   Published ten peer-reviewed papers over four years, including six published chapters by submission of the thesis
+  - Led field expeditions in diverse habitats on four islands in New
+    Caledonia and across two Australian states
+  - Acquired extensive experience programming epidemiological analyses
+    for multistructure datasets using both frequentist and Bayesian
+    techniques
+  - Published ten peer-reviewed papers over four years, including six
+    published chapters by submission of the thesis
 
-**GDipResMeth**
-**James Cook University** (Supervisors: Prof Garry Russ, Dr Lynne van Herwerden) Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field observations*
+**GDipResMeth**  
+**James Cook University** (Supervisors: Prof Garry Russ, Dr Lynne van
+Herwerden) Thesis: *Connectivity of butterflyfishes: pairing molecular
+methods and field observations*
 
--   Lead volunteer divers on two field trips to conduct marine abundance and habitat complexity surveys
--   Developed laboratory skills to conduct high-throughput genetic analyses
--   Obtained a high distinction in a Sampling and Experimental Design course and developed key programming skills to build hierarchical models
+  - Lead volunteer divers on two field trips to conduct marine abundance
+    and habitat complexity surveys
+  - Developed laboratory skills to conduct high-throughput genetic
+    analyses
+  - Obtained a high distinction in a Sampling and Experimental Design
+    course and developed key programming skills to build hierarchical
+    models
 
-**BSc (honours)**
+**BSc (honours)**  
 **University of North Carolina at Wilmington**; North Carolina, USA
 
--   Dean’s list for academic achievement in all semesters (GPA 4.0/4.0)
+  - Dean’s list for academic achievement in all semesters (GPA 4.0/4.0)
 
-Professional Experience
------------------------
+## Professional Experience
 
-**Postdoctoral Fellow / Lecturer (7/2016 - present)**
-**University of Queensland**, School of Veterinary Science (Adviser: A/Prof Ricardo Soares Magalhães)
+**Postdoctoral Fellow / Lecturer (7/2016 - present)**  
+**University of Queensland**, School of Veterinary Science (Adviser:
+A/Prof Ricardo Soares Magalhães)
 
--   Leading a National Geographic / UQ Early Career Resarch Grant funded project on the spread of parasites at the human-wildlife interface
--   Coordinated three UQ undergraduate genetics courses
--   Supervising three RhD students in disease ecology and quantitative genetics
--   Developing novel network tools to study biotic interactions and their influences on infection risk
+  - Leading a National Geographic / UQ Early Career Resarch Grant funded
+    project on the spread of parasites at the human-wildlife interface
+  - Coordinated three UQ undergraduate genetics courses
+  - Supervising three RhD students in disease ecology and quantitative
+    genetics
+  - Developing novel network tools to study biotic interactions and
+    their influences on infection risk
 
-**Research Assistant (1/2016 - 7/16)**
-**University of Queensland**, School of Veterinary Science (Adviser: Dr Steven Kopp)
+**Research Assistant (1/2016 - 7/16)**  
+**University of Queensland**, School of Veterinary Science (Adviser: Dr
+Steven Kopp)
 
--   Conducted molecular research into population genetics of soil-transmitted helminth parasites
--   Established protocols to develop next generation sequencing tools for cat fleas
+  - Conducted molecular research into population genetics of
+    soil-transmitted helminth parasites
+  - Established protocols to develop next generation sequencing tools
+    for cat fleas
 
-Teaching Contributions
-----------------------
+## Teaching Contributions
 
 **2017**
 
-**University of Queensland**, Gatton Campus: Ecological and Disease Genetics (Course Coordinator)
+**University of Queensland**, Gatton Campus: Ecological and Disease
+Genetics (Course Coordinator)  
 Undergraduate (3rd year Science), semester 1
 
--   Planned learning objectives; wrote the electronic course profile (ECP) and all assignments
--   Delivered flexible, interactive lectures and tutorials that were well-received by students
--   Achieved overwhelmingly positive feedback on student evaluations, including scores of ‘Outstanding’ for teacher ratings (SECaTs attached)
+  - Planned learning objectives; wrote the electronic course profile
+    (ECP) and all assignments
+  - Delivered flexible, interactive lectures and tutorials that were
+    well-received by students
+  - Achieved overwhelmingly positive feedback on student evaluations,
+    including scores of ‘Outstanding’ for teacher ratings (SECaTs
+    attached)
 
-**University of Queensland**, Gatton Campus: Animal Breeding and Genetics (Course Coordinator)
+**University of Queensland**, Gatton Campus: Animal Breeding and
+Genetics (Course Coordinator)  
 Undergraduate (Bachelor of Veterinary Medicine), semester 2
 
--   Planned learning objectives; contributed to preparation of assignments and end of semester exam
--   Independently lead theory-based genetics tutorials
--   Nominated for a ‘Golden Speculum’ Best Lecturer award for 2017
+  - Planned learning objectives; contributed to preparation of
+    assignments and end of semester exam
+  - Independently lead theory-based genetics tutorials
+  - Nominated for a ‘Golden Speculum’ Best Lecturer award for 2017
 
 **2016 - 17**
 
-**University of Queensland**, Gatton Campus: Molecular and Quantitative Plant Genetics; Molecular and Quantitative Animal Genetics (Lead tutor)
+**University of Queensland**, Gatton Campus: Molecular and Quantitative
+Plant Genetics; Molecular and Quantitative Animal Genetics (Lead
+tutor)  
 Undergraduate (2nd year Science and 2nd year Agriculture), semester 2
 
--   Independently lead laboratory and theory tutorials
--   Marked assignments and liaised with course coordinators to enhance curriculums
+  - Independently lead laboratory and theory tutorials
+  - Marked assignments and liaised with course coordinators to enhance
+    curriculums
 
 **2015 - 17**
 
-**University of Queensland**, Gatton Campus: Animal Breeding and Molecular Genetics; Animal Pathogens and Immunity; Principles of Disease (Assistant tutor)
+**University of Queensland**, Gatton Campus: Animal Breeding and
+Molecular Genetics; Animal Pathogens and Immunity; Principles of Disease
+(Assistant tutor)  
 Undergraduate (2nd year Veterinary Science), semesters 1 and 2
 
--   Collaborated with fellow tutors to lead laboratory and theory tutorials
--   Marked assignments
+  - Collaborated with fellow tutors to lead laboratory and theory
+    tutorials
+  - Marked assignments
 
-Education
----------
+## Education
 
-**PhD**
-**Griffith University** (Supervisors: Dr Sonya Clegg, Dr Robert Adlard, Prof. Hamish McCallum)
-Thesis: *The distribution and diversity of avian malaria parasites in Australian and Southern Melanesian birds*
+**PhD**  
+**Griffith University** (Supervisors: Dr Sonya Clegg, Dr Robert Adlard,
+Prof. Hamish McCallum)  
+Thesis: *The distribution and diversity of avian malaria parasites in
+Australian and Southern Melanesian birds*
 
--   Led field expeditions in diverse habitats on four islands in New Caledonia and across two Australian states
--   Acquired extensive experience programming molecular ecology analyses for multistructure datasets using both frequentist and Bayesian techniques
--   Published ten peer-reviewed papers over four years; six chapters published by submission
+  - Led field expeditions in diverse habitats on four islands in New
+    Caledonia and across two Australian states
+  - Acquired extensive experience programming molecular ecology analyses
+    for multistructure datasets using both frequentist and Bayesian
+    techniques
+  - Published ten peer-reviewed papers over four years; six chapters
+    published by submission
 
-**GDipResMeth**
-**James Cook University** (Supervisors: Prof Garry Russ, Dr Lynne van Herwerden) Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field observations*
+**GDipResMeth**  
+**James Cook University** (Supervisors: Prof Garry Russ, Dr Lynne van
+Herwerden) Thesis: *Connectivity of butterflyfishes: pairing molecular
+methods and field observations*
 
--   Lead volunteer divers on two field trips to conduct marine abundance and habitat complexity surveys
--   Developed laboratory skills to conduct high-throughput genetic analyses
--   Obtained a high distinction in a Sampling and Experimental Design course and developed key programming skills to build hierarchical molecular models
+  - Lead volunteer divers on two field trips to conduct marine abundance
+    and habitat complexity surveys
+  - Developed laboratory skills to conduct high-throughput genetic
+    analyses
+  - Obtained a high distinction in a Sampling and Experimental Design
+    course and developed key programming skills to build hierarchical
+    molecular models
 
-**BSc (honours)**
+**BSc (honours)**  
 **University of North Carolina at Wilmington**; North Carolina, USA
 
--   Dean’s list for academic achievement in all semesters (GPA 4.0/4.0)
+  - Dean’s list for academic achievement in all semesters (GPA 4.0/4.0)
 
-Publications in Review
-----------------------
+## Publications in Review
 
-**Clark, NJ**, Owada, K, Ruberanziza, E, Ortu, G, Umulisa, I, Bayisenge, U, Mbonigaba, JB, Mucaca, JB, Lancaster, W, Fenwick, A, Soares Magalhães, RJ, and Mbituyumuremyi, A. Parasite associations predict infection risk: incorporating co-infections in predictive models for neglected tropical diseases (1st submission 30/04/19)
+**Clark, NJ**, Owada, K, Ruberanziza, E, Ortu, G, Umulisa, I, Bayisenge,
+U, Mbonigaba, JB, Mucaca, JB, Lancaster, W, Fenwick, A, Soares
+Magalhães, RJ, and Mbituyumuremyi, A. Parasite associations predict
+infection risk: incorporating co-infections in predictive models for
+neglected tropical diseases (1st submission 30/04/19)
 
-**Clark, NJ**, Kerry, JT, and Fraser, CI. Rapid winter warming will disproportionately disrupt marine fish community structure (1st submission 30/04/19)
+**Clark, NJ**, Kerry, JT, and Fraser, CI. Rapid winter warming will
+disproportionately disrupt marine fish community structure (1st
+submission 30/04/19)
 
-McGowan, A, Lanyon, J, **Clark, NJ**, Blair, D, Marsh, H, Wolanski, E, and Seddon, J. Seascape genetics of a mobile marine mammal: evidence of an abrupt break in dugong (*Dugong dugon*, Müller) gene flow along Australia’s eastern Queensland coast (1st submission 29/04/19)
+McGowan, A, Lanyon, J, **Clark, NJ**, Blair, D, Marsh, H, Wolanski, E,
+and Seddon, J. Seascape genetics of a mobile marine mammal: evidence of
+an abrupt break in dugong (*Dugong dugon*, Müller) gene flow along
+Australia’s eastern Queensland coast (1st submission 29/04/19)
 
-**Clark, NJ**, Umulisa, I, Ruberanziza, E, Owada, K, Colley, DG, Ortu, G, Campbell, CH, Emmanuel, R, Lancaster, W, Mbonigaba, JB, Mbituyumuremyi, A, Fenwick, A, Soares Magalhães, RJ and Turate, I. Mapping *Schistosoma mansoni* endemicity in Rwanda: a critical assessment of geographical disparities arising from Circulating Cathodic Antigen versus Kato-Katz diagnostics (1st submission 24/04/19)
+**Clark, NJ**, Umulisa, I, Ruberanziza, E, Owada, K, Colley, DG, Ortu,
+G, Campbell, CH, Emmanuel, R, Lancaster, W, Mbonigaba, JB,
+Mbituyumuremyi, A, Fenwick, A, Soares Magalhães, RJ and Turate, I.
+Mapping *Schistosoma mansoni* endemicity in Rwanda: a critical
+assessment of geographical disparities arising from Circulating Cathodic
+Antigen versus Kato-Katz diagnostics (1st submission 24/04/19)
 
-**Clark, NJ**, Drovetski, SV and Voelker, G. Avian malaria in the changing climate: denser vegetation and warmer winters increase parasite infection risk in Western Palearctic birds. (1st submission 08/04/19)
+**Clark, NJ**, Drovetski, SV and Voelker, G. Avian malaria in the
+changing climate: denser vegetation and warmer winters increase parasite
+infection risk in Western Palearctic birds. (1st submission 08/04/19)
 
-Proboste, T, Corvalan, P, **Clark, NJ**, Beyer, HL, Goldizen, AW and Seddon, JM. Commensal bacterial sharing is not predicted by host social association in kangaroos: implications for disease transmission networks (2nd revision 19/04/19)
+Fountain-Jones, NM, **Clark, NJ**, Kinsley, AC, Carstensen, M, Johnson,
+TJ, Forester, J, Miller, E, Moore, S, Wolf, TM and Craft, ME. Microbial
+associations and spatial proximity predict North American moose (*Alces
+alces*) gastrointestinal community composition (1st submission
+07/01/19)
 
-Fountain-Jones, NM, **Clark, NJ**, Kinsley, AC, Carstensen, M, Johnson, TJ, Forester, J, Miller, E, Moore, S, Wolf, TM and Craft, ME. Microbial associations and spatial proximity predict North American moose (*Alces alces*) gastrointestinal community composition (1st submission 07/01/19)
+## Citations
 
-Citations
----------
+<img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
-<img src="README_files/figure-markdown_github/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
-
-Full Publication List
----------------------
+## Full Publication List
 
 **2019**
 
-\[25\] Wells, K, and **Clark, NJ**. Host specificity in variable environments. *Trends in Parasitology* DOI: 10.1016/j.pt.2019.04.001 (IF: 7.929) [UQ media release](https://www.uq.edu.au/news/article/2019/05/changing-climate-may-affect-animal-human-disease-transfer)
+\[27\] Ruberanziza, E, Owada, K, **Clark, NJ**, Umulisa, I, Ortu, G,
+Lancaster, W, Munyaneza, T, Mbituyumuremyi, A, Bayisenge, U, Fenwick, A,
+Soares Magalhães, RJ. Mapping soil-transmitted helminth parasite
+infection in Rwanda: estimating endemicity and identifying at-risk
+populations. *Tropical Medicine and Infectious Disease* (accepted
+12/06/19)
 
-\[24\] Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A, Miret, J, D'Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J. Out-of-Africa origins and global climatic distribution of the common cat flea, *Ctenocephalides felis*: the hitchhiker’s guide to world domination. *International Journal for Parasitology* DOI: 10.1016/j.ijpara.2019.01.001 (IF: 3.730) [*The Conversation*](https://theconversation.com/our-dogs-and-cats-are-spreading-fleas-around-the-world-and-to-us-88069)
+\[26\] Proboste, T, Corvalan, P, **Clark, NJ**, Beyer, HL, Goldizen, AW
+and Seddon, JM. Commensal bacterial sharing is not predicted by host
+social association in kangaroos: implications for disease transmission
+networks. *Journal of Animal Ecology* (accepted 12/06/19; IF: 4.474)
 
-\[23\] Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein, JD, Clegg, SM, and **Clark, NJ**. Climate variation influences host specificity in avian malaria parasites. *Ecology Letters* 22 547-557 (IF: 9.137)
+\[25\] Wells, K, and **Clark, NJ**. Host specificity in variable
+environments. *Trends in Parasitology* DOI: 10.1016/j.pt.2019.04.001
+(IF: 7.929) [UQ media
+release](https://www.uq.edu.au/news/article/2019/05/changing-climate-may-affect-animal-human-disease-transfer)
+
+\[24\] Lawrence, AL, Webb, CE, **Clark, NJ**, Halajian, A, Mihalca, A,
+Miret, J, D’Amico, G, Brown, G, Kumsa, B, Modry, D, and Šlapeta, J.
+Out-of-Africa origins and global climatic distribution of the common cat
+flea, *Ctenocephalides felis*: the hitchhiker’s guide to world
+domination. *International Journal for Parasitology* DOI:
+10.1016/j.ijpara.2019.01.001 (IF: 3.730) [*The
+Conversation*](https://theconversation.com/our-dogs-and-cats-are-spreading-fleas-around-the-world-and-to-us-88069)
+
+\[23\] Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein,
+JD, Clegg, SM, and **Clark, NJ**. Climate variation influences host
+specificity in avian malaria parasites. *Ecology Letters* 22 547-557
+(IF: 9.137)
 
 **2018**
 
-\[22\] Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in helminth host specificity: phylogenetic and functional diversity of regional host species pools matter. *Ecography* DOI: 10.1111/ecog.03886 (IF: 4.520) [UQ media release](https://www.uq.edu.au/news/article/2018/08/dangerous-parasites-worming-their-way-through-wildlife)
+\[22\] Wells, K, Gibson, D, and **Clark, NJ**. Global patterns in
+helminth host specificity: phylogenetic and functional diversity of
+regional host species pools matter. *Ecography* DOI: 10.1111/ecog.03886
+(IF: 4.520) [UQ media
+release](https://www.uq.edu.au/news/article/2018/08/dangerous-parasites-worming-their-way-through-wildlife)
 
-\[21\] **Clark, NJ** and Soares Magalhães, RJ. Airborne geographical dispersal of Q Fever from livestock holdings to human communities: a systematic review and critical appraisal of evidence. *BMC Infectious Diseases* DOI: 10.1186/s12879-018-3135-4 (IF: 2.678)
+\[21\] **Clark, NJ** and Soares Magalhães, RJ. Airborne geographical
+dispersal of Q Fever from livestock holdings to human communities: a
+systematic review and critical appraisal of evidence. *BMC Infectious
+Diseases* DOI: 10.1186/s12879-018-3135-4 (IF: 2.678)
 
-\[20\] **Clark, NJ**, Wells, K, Lindberg, O. MRFcov: Markov Random Fields with additional covariates. `R` package version 1.0, <https://github.com/nicholasjclark/MRFcov>
+\[20\] **Clark, NJ**, Wells, K, Lindberg, O. MRFcov: Markov Random
+Fields with additional covariates. `R` package version 1.0,
+<https://github.com/nicholasjclark/MRFcov>
 
-\[19\] **Clark, NJ**, Wells, K, and Lindberg, O. Unravelling changing interspecific interactions across environmental gradients using Markov random fields. *Ecology* DOI: 10.1002/ecy.2221 (IF: 4.809) [UQ media release](https://www.uq.edu.au/news/article/2018/05/social-network-models-provide-new-tool-ecology-studies)
+\[19\] **Clark, NJ**, Wells, K, and Lindberg, O. Unravelling changing
+interspecific interactions across environmental gradients using Markov
+random fields. *Ecology* DOI: 10.1002/ecy.2221 (IF: 4.809) [UQ media
+release](https://www.uq.edu.au/news/article/2018/05/social-network-models-provide-new-tool-ecology-studies)
 
-\[18\] **Clark, NJ**. Phylogenetic uniqueness, not latitude, explains the diversity of avian blood parasite communities worldwide. *Global Ecology and Biogeography* DOI: 10.1111/geb.12741 (IF: 6.045)
+\[18\] **Clark, NJ**. Phylogenetic uniqueness, not latitude, explains
+the diversity of avian blood parasite communities worldwide. *Global
+Ecology and Biogeography* DOI: 10.1111/geb.12741 (IF: 6.045)
 
-\[17\] Wells, L, Gibson, DI, **Clark, NJ**, Ribas, A, Morand, S, McCallum, H. Global spread of helminth parasites at the human – domestic animal – wildlife interface. *Global Change Biology* DOI: 10.1111/gcb.14064 (IF: 8.502)
+\[17\] Wells, L, Gibson, DI, **Clark, NJ**, Ribas, A, Morand, S,
+McCallum, H. Global spread of helminth parasites at the human – domestic
+animal – wildlife interface. *Global Change Biology* DOI:
+10.1111/gcb.14064 (IF: 8.502)
 
-\[16\] **Clark, NJ**, Seddon, JM, Kyaw‐Tanner, M, Al-Alawneh, J, Harper, G, McDonagh, P, and Meers, J. Emergence of canine parvovirus subtype 2b (CPV-2b) infections in Australian dogs. *Infection, Genetics and Evolution* DOI: 10.1016/j.meegid.2017.12.013 (IF: 2.885) [UQ media release](https://gatton.uq.edu.au/article/2018/08/researchers-warn-deadly-parvovirus-strain-spreading-australian-dogs)
+\[16\] **Clark, NJ**, Seddon, JM, Kyaw‐Tanner, M, Al-Alawneh, J, Harper,
+G, McDonagh, P, and Meers, J. Emergence of canine parvovirus subtype 2b
+(CPV-2b) infections in Australian dogs. *Infection, Genetics and
+Evolution* DOI: 10.1016/j.meegid.2017.12.013 (IF: 2.885) [UQ media
+release](https://gatton.uq.edu.au/article/2018/08/researchers-warn-deadly-parvovirus-strain-spreading-australian-dogs)
 
-\[15\] **Clark, NJ**, Seddon, JM, Šlapeta, J, and Wells, K. Parasite spread at the domestic animal - wildlife interface: anthropogenic habitat use, phylogeny and body mass drive risk of cat and dog flea (*Ctenocephalides* spp.) infestation in wild mammals. *Parasites & Vectors* 11:8 (IF: 3.035) [UQ media release](https://www.uq.edu.au/news/article/2018/01/flea-now-parasites-domestic-pets-affecting-wildlife-world-wide)
+\[15\] **Clark, NJ**, Seddon, JM, Šlapeta, J, and Wells, K. Parasite
+spread at the domestic animal - wildlife interface: anthropogenic
+habitat use, phylogeny and body mass drive risk of cat and dog flea
+(*Ctenocephalides* spp.) infestation in wild mammals. *Parasites &
+Vectors* 11:8 (IF: 3.035) [UQ media
+release](https://www.uq.edu.au/news/article/2018/01/flea-now-parasites-domestic-pets-affecting-wildlife-world-wide)
 
 **2017**
 
-\[14\] **Clark, NJ**, Clegg, SM, Sam, K, Goulding, W, Koane, B and Wells, K. Climate, host phylogeny and the connectivity of host communities govern regional parasite assembly. *Diversity and Distributions* DOI: 10.1111/ddi.12661 (IF: 4.391)
+\[14\] **Clark, NJ**, Clegg, SM, Sam, K, Goulding, W, Koane, B and
+Wells, K. Climate, host phylogeny and the connectivity of host
+communities govern regional parasite assembly. *Diversity and
+Distributions* DOI: 10.1111/ddi.12661 (IF: 4.391)
 
-\[13\] **Clark, NJ** and Clegg, SM. Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. *Molecular Ecology* 26(11), 3074-3086 (IF: 6.086)
+\[13\] **Clark, NJ** and Clegg, SM. Integrating phylogenetic and
+ecological distances reveals new insights into parasite host
+specificity. *Molecular Ecology* 26(11), 3074-3086 (IF: 6.086)
 
-\[12\] McKee, J, **Clark, NJ**, Shapter, F and Simmons, G. A new look at the origins of Gibbon Ape Leukemia Virus. *Virus Genes* 53(2), 165-172 (IF: 1.431)
+\[12\] McKee, J, **Clark, NJ**, Shapter, F and Simmons, G. A new look at
+the origins of Gibbon Ape Leukemia Virus. *Virus Genes* 53(2), 165-172
+(IF: 1.431)
 
 **2016**
 
-\[11\] **Clark, NJ**, Wells, K, Dimitrov, D and Clegg, SM. Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. *Journal of Animal Ecology* 85(6), 1461-1470 (IF: 4.474)
+\[11\] **Clark, NJ**, Wells, K, Dimitrov, D and Clegg, SM. Co-infections
+and environmental conditions drive the distributions of blood parasites
+in wild birds. *Journal of Animal Ecology* 85(6), 1461-1470 (IF: 4.474)
 
-\[10\] Aharon-Rotman, Y, Buchanan, KL, **Clark, NJ**, Klaassen, M and Buttemer, WA. Why fly the extra mile? Using stress biomarkers to assess wintering habitat quality in migratory shorebirds. *Oecologia* 182(2), 385-395 (IF: 3.130)
+\[10\] Aharon-Rotman, Y, Buchanan, KL, **Clark, NJ**, Klaassen, M and
+Buttemer, WA. Why fly the extra mile? Using stress biomarkers to assess
+wintering habitat quality in migratory shorebirds. *Oecologia* 182(2),
+385-395 (IF: 3.130)
 
-\[9\] Goulding, W, Adlard, RD, Clegg, SM and **Clark, NJ**. Molecular and morphological description of *Haemoproteus* (*Parahaemoproteus*) *bukaka* (species nova), a haemosporidian associated with the strictly Australo-Papuan host Subfamily Cracticinae. *Parasitology Research* 115, 3387-3400 (IF: 2.329)
+\[9\] Goulding, W, Adlard, RD, Clegg, SM and **Clark, NJ**. Molecular
+and morphological description of *Haemoproteus* (*Parahaemoproteus*)
+*bukaka* (species nova), a haemosporidian associated with the strictly
+Australo-Papuan host Subfamily Cracticinae. *Parasitology Research* 115,
+3387-3400 (IF: 2.329)
 
-\[8\] **Clark, NJ**, Clegg, SM and Klaassen, M. Migration strategy and pathogen risk: non‐breeding distribution drives malaria prevalence in migratory waders. *Oikos* 125(9), 1358-1368 (IF: 4.030)
+\[8\] **Clark, NJ**, Clegg, SM and Klaassen, M. Migration strategy and
+pathogen risk: non‐breeding distribution drives malaria prevalence in
+migratory waders. *Oikos* 125(9), 1358-1368 (IF: 4.030)
 
 **2015**
 
-\[7\] **Clark, NJ**, Ishtiaq, F, Olsson-Pons, S and Clegg, SM. Specialist enemies, generalist weapons and the potential spread of exotic pathogens: malaria parasites in a highly invasive bird. *International Journal for Parasitology* 45(14), 891-899 (IF: 3.730)
+\[7\] **Clark, NJ**, Ishtiaq, F, Olsson-Pons, S and Clegg, SM.
+Specialist enemies, generalist weapons and the potential spread of
+exotic pathogens: malaria parasites in a highly invasive bird.
+*International Journal for Parasitology* 45(14), 891-899 (IF: 3.730)
 
-\[6\] Olsson-Pons, S, **Clark, NJ**, Ishtiaq, F and Clegg, SM. Differences in host species relationships and biogeographical influences produce contrasting patterns of prevalence, community composition and genetic structure in two genera of avian malaria parasites in southern Melanesia. *Journal of Animal Ecology* 84(4), 985-998 (IF: 4.474)
+\[6\] Olsson-Pons, S, **Clark, NJ**, Ishtiaq, F and Clegg, SM.
+Differences in host species relationships and biogeographical influences
+produce contrasting patterns of prevalence, community composition and
+genetic structure in two genera of avian malaria parasites in southern
+Melanesia. *Journal of Animal Ecology* 84(4), 985-998 (IF: 4.474)
 
-\[5\] **Clark, NJ**, Adlard, RD and Clegg, SM. Molecular and morphological characterization of *Haemoproteus* (*Parahaemoproteus*) *ptilotis*, a parasite infecting Australian honeyeaters (Meliphagidae), with remarks on prevalence and potential cryptic speciation. *Parasitology Research* 114(5), 1921-1928 (IF: 2.329)
+\[5\] **Clark, NJ**, Adlard, RD and Clegg, SM. Molecular and
+morphological characterization of *Haemoproteus* (*Parahaemoproteus*)
+*ptilotis*, a parasite infecting Australian honeyeaters (Meliphagidae),
+with remarks on prevalence and potential cryptic speciation.
+*Parasitology Research* 114(5), 1921-1928 (IF: 2.329)
 
-\[4\] **Clark, NJ** and Clegg, SM. The influence of vagrant hosts and weather patterns on the colonisation and persistence of blood parasites in an island bird. *Journal of Biogeography* 42(4), 641-651 (IF: 4.248)
+\[4\] **Clark, NJ** and Clegg, SM. The influence of vagrant hosts and
+weather patterns on the colonisation and persistence of blood parasites
+in an island bird. *Journal of Biogeography* 42(4), 641-651 (IF: 4.248)
 
 **2014**
 
-\[3\] **Clark, NJ**, Adlard, RD and Clegg, SM. First evidence of avian malaria in Capricorn Silvereyes (*Zosterops lateralis chlorocephalus*) on Heron Island. *The Sunbird* 44, 1-11
+\[3\] **Clark, NJ**, Adlard, RD and Clegg, SM. First evidence of avian
+malaria in Capricorn Silvereyes (*Zosterops lateralis chlorocephalus*)
+on Heron Island. *The Sunbird* 44, 1-11
 
-\[2\] **Clark, NJ**, Clegg, SM and Lima, MR. A review of global diversity in avian haemosporidians (Plasmodium and Haemoproteus: Haemosporida): new insights from molecular data. *International Journal for Parasitology* 44(5), 329-338 (IF: 3.730)
+\[2\] **Clark, NJ**, Clegg, SM and Lima, MR. A review of global
+diversity in avian haemosporidians (Plasmodium and Haemoproteus:
+Haemosporida): new insights from molecular data. *International Journal
+for Parasitology* 44(5), 329-338 (IF: 3.730)
 
 **2012**
 
-\[1\] **Clark, NJ** and Russ, GR. Ontogenetic shifts in the habitat associations of butterflyfishes (F. Chaetodontidae). *Environmental Biology of Fishes* 94, 579-590 (IF: 1.307)
+\[1\] **Clark, NJ** and Russ, GR. Ontogenetic shifts in the habitat
+associations of butterflyfishes (F. Chaetodontidae). *Environmental
+Biology of Fishes* 94, 579-590 (IF: 1.307)
 
-Service and Discipline Involvement
-----------------------------------
+## Service and Discipline Involvement
 
 **Service**
 
--   Contributing member of UQ School of Veterinary Science Research Committee
--   Contributing member of UQ's Faculty of Science Equity, Diversity and Inclusion Committee
--   Served as panel member to mark three UQ RhD theses
--   Participated in teaching and assignment design for four undergraduate courses at UQ
--   Currently supervising three RhD students and one Honours student
--   Student volunteer for the 2017 Australian Society for Parasitology International Conference
+  - Contributing member of UQ School of Veterinary Science Research
+    Committee
+  - Contributing member of UQ’s Faculty of Science Equity, Diversity and
+    Inclusion Committee
+  - Served as panel member to mark three UQ RhD theses
+  - Participated in teaching and assignment design for four
+    undergraduate courses at UQ
+  - Currently supervising three RhD students and one Honours student
+  - Student volunteer for the 2017 Australian Society for Parasitology
+    International Conference
 
 **Journal Referee**
 
-*German Centre for Integrative Biodiversity Research (iDiv)*, *Molecular Ecology*, *Evolutionary Applications*, *Molecular Biology and Evolution*, *Infection, Genetics and Evolution*, *Malaria Journal*, *Ecology Letters*, *Parasites & Vectors*, *International Journal for Parasitology*, *Proceedings of the Royal Society B*, *BMC Infectious Diseases*, *Parasitology*, *Tropical Medicine and Infectious Disease*, *BMC Veterinary Research*
+*German Centre for Integrative Biodiversity Research (iDiv)*, *Molecular
+Ecology*, *Evolutionary Applications*, *Molecular Biology and
+Evolution*, *Infection, Genetics and Evolution*, *Malaria Journal*,
+*Ecology Letters*, *Parasites & Vectors*, *International Journal for
+Parasitology*, *Proceedings of the Royal Society B*, *BMC Infectious
+Diseases*, *Parasitology*, *Tropical Medicine and Infectious Disease*,
+*BMC Veterinary Research*
 
-Funding Support
----------------
+## Funding Support
 
 **2019**
 
-**$AU35,090**: UQ Early Career Researcher Grant (authored the proposal). *TickAlert*: development of an integrated early warning surveillance platform for tick paralysis
+**$AU35,090**: UQ Early Career Researcher Grant (authored the proposal).
+*TickAlert*: development of an integrated early warning surveillance
+platform for tick paralysis
 
-**2018**
-**$US150,000**: World Health Organization (co-authored the proposal). Mapping the emergence, spread and transmission pathways of ESBL-producing *E. coli*
+**2018**  
+**$US150,000**: World Health Organization (co-authored the proposal).
+Mapping the emergence, spread and transmission pathways of
+ESBL-producing *E. coli*
 
 **2017**
 
-**$US18,400**: National Geographic Scientific Research Grant (co-authored the proposal). Tracing the spillover of fleas and paralysis ticks between wildlife and domestic pets in Australia
+**$US18,400**: National Geographic Scientific Research Grant
+(co-authored the proposal). Tracing the spillover of fleas and paralysis
+ticks between wildlife and domestic pets in Australia
 
 **2015**
 
-**$AU4,975**: Birds Queensland Research Award (co-authored the proposal). The role of invasive birds as carriers of exotic pathogens; implications for co-occurring native birds
+**$AU4,975**: Birds Queensland Research Award (co-authored the
+proposal). The role of invasive birds as carriers of exotic pathogens;
+implications for co-occurring native birds
 
-**$AU3,125**: BirdLife Australia Stuart Leslie Bird Research Award (authored the proposal). Enemy release or novel weapons: malaria’s role in the spread of the invasive Indian Myna
+**$AU3,125**: BirdLife Australia Stuart Leslie Bird Research Award
+(authored the proposal). Enemy release or novel weapons: malaria’s role
+in the spread of the invasive Indian Myna
 
 **2014**
 
-**$AU2,000**: Griffith University Environmental fund for impactful publications
+**$AU2,000**: Griffith University Environmental fund for impactful
+publications
 
 **2013**
 
-**$US20,250**: National Geographic Scientific Research Grant (co-authored the proposal). Avian malaria in southern Melanesian birds
+**$US20,250**: National Geographic Scientific Research Grant
+(co-authored the proposal). Avian malaria in southern Melanesian birds
 
 **2012**
 
-**$AU3,750**: BirdLife Australia Stuart Leslie Bird Research Award (authored the proposal). Avian malaria lineage distribution, diversity and host specificity in southeast Queensland
+**$AU3,750**: BirdLife Australia Stuart Leslie Bird Research Award
+(authored the proposal). Avian malaria lineage distribution, diversity
+and host specificity in southeast Queensland
 
-**$AU5,000**: Birds Queensland Research Award (authored the proposal). The prevalence, distribution and diversity of avian malaria parasites in southeast Queensland
+**$AU5,000**: Birds Queensland Research Award (authored the proposal).
+The prevalence, distribution and diversity of avian malaria parasites in
+southeast Queensland
 
-**$AU78,000**: Griffith University International Postgraduate Research Award
+**$AU78,000**: Griffith University International Postgraduate Research
+Award
 
-Mentoring And Research Training
--------------------------------
+## Mentoring And Research Training
 
 **2019 - present**
 
-Supervising UQ Masters student (S. Gericke), developing a molecular toolkit to study the population genomics of cat fleas
+Supervising UQ Masters student (S. Gericke), developing a molecular
+toolkit to study the population genomics of cat fleas
 
 **2018 - present**
 
-Supervising UQ Honours student (T. Nguyen), studying population genetics and spatial epidemiology of zoonotic helminths in domestic dogs
+Supervising UQ Honours student (T. Nguyen), studying population genetics
+and spatial epidemiology of zoonotic helminths in domestic dogs
 
 **2017 - present**
 
-Co-supervising UQ PhD student (A. McGowan), studying seascape genomics of dugongs
+Co-supervising UQ PhD student (A. McGowan), studying seascape genomics
+of dugongs
 
 **2016 - present**
 
-Co-supervising UQ PhD student (T. Proboste), studying population genomics and host-parasite interactions in paralysis ticks
+Co-supervising UQ PhD student (T. Proboste), studying population
+genomics and host-parasite interactions in paralysis ticks
 
-Presentations and Societal Impacts
-----------------------------------
+## Presentations and Societal Impacts
 
-**2019**
-Authored media article: Australia’s drought could be increasing Q fever risk, but there are ways we can protect ourselves [*The Conversation*](https://theconversation.com/australias-drought-could-be-increasing-q-fever-risk-but-there-are-ways-we-can-protect-ourselves-112297)
-Authored media article: Towards pre-empting global disease spread [*The Conversation*](https://theconversation.com/drafts/115660/edit)
-Oral presentation: *Ecology and Evolutionary Biology* seminar series, Texax A&M University, College Station, USA
+**2019**  
+Authored media article: Australia’s drought could be increasing Q fever
+risk, but there are ways we can protect ourselves [*The
+Conversation*](https://theconversation.com/australias-drought-could-be-increasing-q-fever-risk-but-there-are-ways-we-can-protect-ourselves-112297)  
+Authored media article: Towards pre-empting global disease spread [*The
+Conversation*](https://theconversation.com/drafts/115660/edit)  
+Oral presentation: *Ecology and Evolutionary Biology* seminar series,
+Texax A\&M University, College Station, USA
 
 **2018**
 
-Authored media article: Our dogs and cats are spreading fleas around the world (and to us) [*The Conversation*](https://theconversation.com/our-dogs-and-cats-are-spreading-fleas-around-the-world-and-to-us-88069)
-Oral presentation: Ecological Society of Australia Conference, Brisbane, Australia
-Oral presentation: Ministerio de Salud de Chile (MINSAL) Q Fever Delegation, Gatton, Australia
+Authored media article: Our dogs and cats are spreading fleas around the
+world (and to us) [*The
+Conversation*](https://theconversation.com/our-dogs-and-cats-are-spreading-fleas-around-the-world-and-to-us-88069)  
+Oral presentation: Ecological Society of Australia Conference, Brisbane,
+Australia  
+Oral presentation: Ministerio de Salud de Chile (MINSAL) Q Fever
+Delegation, Gatton, Australia
 
 **2017**
 
-Oral presentation: Australian Society for Parasitology Conference, Leura, Australia
+Oral presentation: Australian Society for Parasitology Conference,
+Leura, Australia
 
 **2016**
 
 Research used to frame a Question Without Notice in NSW Parliament
 
-Oral presentation: Griffith University Wildlife Disease Ecology Group, Brisbane, Australia
+Oral presentation: Griffith University Wildlife Disease Ecology Group,
+Brisbane, Australia
 
 **2015**
 
-Interviewed on ABC Radio National and ABC Radio Gold Coast regarding research on exotic malaria strains spread by invasive birds
+Interviewed on ABC Radio National and ABC Radio Gold Coast regarding
+research on exotic malaria strains spread by invasive birds
 
-Interviewed for feature stories in the Australian Society for Parasitology quarterly newsletter and in Australian Birdlife regarding research on avian malaria in Australian birds
+Interviewed for feature stories in the Australian Society for
+Parasitology quarterly newsletter and in Australian Birdlife regarding
+research on avian malaria in Australian birds
 
-Oral presentation: University of Queensland ARC Cavity Nesting Group, Brisbane, Australia
+Oral presentation: University of Queensland ARC Cavity Nesting Group,
+Brisbane, Australia
 
-Oral presentation: Evolutionary Ecology of Infectious Diseases Conference, Athens, USA
+Oral presentation: Evolutionary Ecology of Infectious Diseases
+Conference, Athens, USA
 
-Oral presentation: Griffith University Wildlife Disease Ecology Group, Brisbane, Australia
+Oral presentation: Griffith University Wildlife Disease Ecology Group,
+Brisbane, Australia
 
-Poster presentation: Wildlife Disease Association Conference, Sunshine Coast, Australia
+Poster presentation: Wildlife Disease Association Conference, Sunshine
+Coast, Australia
 
 **2014**
 
-Oral presentation: Queensland Ornithological Society, Brisbane, Australia
+Oral presentation: Queensland Ornithological Society, Brisbane,
+Australia
 
-Oral presentation: Australian Society for Parasitology Concepts in Parasitology Workshop, Canberra, Australia.
+Oral presentation: Australian Society for Parasitology Concepts in
+Parasitology Workshop, Canberra, Australia.
 
-Taught diagnostic techniques to students in a Parasitology High School Outreach Program at Ulladulla High School, Ulladulla, NSW, Australia
+Taught diagnostic techniques to students in a Parasitology High School
+Outreach Program at Ulladulla High School, Ulladulla, NSW, Australia
 
 **2013**
 
-Oral presentation: Centre for Integrative Ecology, Deakin University, Geelong, Australia
+Oral presentation: Centre for Integrative Ecology, Deakin University,
+Geelong, Australia
 
-Poster presentation: Malaria and Related Haemosporidians of Wildlife International Conference, Vilnius, Lithuania
+Poster presentation: Malaria and Related Haemosporidians of Wildlife
+International Conference, Vilnius, Lithuania
 
 **2012**
 
 Oral presentation: Malaria RCN Student Workshop, Virginia, USA
 
-Honours and Awards
-------------------
+## Honours and Awards
 
 **2019**
 
-Sponsored to deliver guest seminar for Texax A&M University's *Ecology and Evolutionary Biology* seminar series
+Sponsored to deliver guest seminar for Texax A\&M University’s *Ecology
+and Evolutionary Biology* seminar series
 
 **2018**
 
-Invited to act as guest editor for a [*Tropical Medicine and Infectious Disease* Special Issue](http://www.mdpi.com/journal/tropicalmed/special_issues/Medical_Geography) on disease patterns in a changing environment
+Invited to act as guest editor for a [*Tropical Medicine and Infectious
+Disease* Special
+Issue](http://www.mdpi.com/journal/tropicalmed/special_issues/Medical_Geography)
+on disease patterns in a changing environment
 
 **2017**
 
-Invited to act as co-chair for a Wildlife Parasitology session at the Australian Society for Parasitology Conference, Leura, Australia
+Invited to act as co-chair for a Wildlife Parasitology session at the
+Australian Society for Parasitology Conference, Leura, Australia
 
 **2016**
 
-Research article featured on the cover and on the Editor’s Choice list at International Journal for Parasitology
+Research article featured on the cover and on the Editor’s Choice list
+at International Journal for Parasitology
 
 **2015**
 
-1st place oral presentation; Griffith University School of Environment Student Symposium
+1st place oral presentation; Griffith University School of Environment
+Student Symposium
 
 **2014**
 
-Accepted for competitive placement with travel funds; Australian Society for Parasitology Concepts in Parasitology Workshop, Canberra, Australia
+Accepted for competitive placement with travel funds; Australian Society
+for Parasitology Concepts in Parasitology Workshop, Canberra, Australia
 
 **2012**
 
-Accepted for competitive placement with travel funds; Malaria RCN Student Workshop, Virginia, USA
+Accepted for competitive placement with travel funds; Malaria RCN
+Student Workshop, Virginia, USA
 
-Relative to Opportunity
------------------------
+## Relative to Opportunity
 
-I completed my undergraduate degree (Bachelor of Science; GPA 4.0) in 2009 and a Graduate Diploma by Research Methods in 2011 (High Distinction average). I began my PhD in February 2012 and finished in April 2016, delivering a thesis with six published chapters and two published appendices. This work provided new insights into mechanisms driving the distributions of malaria parasites in birds. I gained a solid background in molecular epidemiology and phylogenomics, two fields that sit at the nexus of zoonotic disease research.
+I completed my undergraduate degree (Bachelor of Science; GPA 4.0) in
+2009 and a Graduate Diploma by Research Methods in 2011 (High
+Distinction average). I began my PhD in February 2012 and finished in
+April 2016, delivering a thesis with six published chapters and two
+published appendices. This work provided new insights into mechanisms
+driving the distributions of malaria parasites in birds. I gained a
+solid background in molecular epidemiology and phylogenomics, two fields
+that sit at the nexus of zoonotic disease research.
 
-Following my PhD I have devoted much of my postdoctoral work to coordinating, teaching and mentoring students. This has provided me with a set of leadership and organizational skills that is unique among my peers. It also taught me to be proficient with the time I have available for research. Since joining UQ SVS as a Postdoctoral Fellow in July 2017, I have published fifteen papers, bringing my total to 25 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in disease ecology. According to *Web of Science* analytics, four of my papers are among the top 10 most cited articles published at my institution in the last two years (out of 296 total articles). My research has garnered international recognition. I was invited to present work on new statistical tools for studying parasite epidemiology at the Ecological Society of Australia's 2018 International Conference and at the Australian Society for Parasitology’s 2017 International Conference. Recently, I was sponsored to present my molecular analysis work at Texas A&M University's *Ecology and Evolutionary Biology* seminar series.
+Following my PhD I have devoted much of my postdoctoral work to
+coordinating, teaching and mentoring students. This has provided me with
+a set of leadership and organizational skills that is unique among my
+peers. It also taught me to be proficient with the time I have available
+for research. Since joining UQ SVS as a Postdoctoral Fellow in July
+2017, I have published seventeen papers, bringing my total to 27
+publications. The quality and significance of this work is reflected by
+my exemplary publication record in some of the top journals in disease
+ecology. According to *Web of Science* analytics, four of my papers are
+among the top 10 most cited articles published at my institution in the
+last two years (out of 296 total articles). My research has garnered
+international recognition. I was invited to present work on new
+statistical tools for studying parasite epidemiology at the Ecological
+Society of Australia’s 2018 International Conference and at the
+Australian Society for Parasitology’s 2017 International Conference.
+Recently, I was sponsored to present my molecular analysis work at Texas
+A\&M University’s *Ecology and Evolutionary Biology* seminar series.
 
-Referees
---------
+## Referees
 
--   Prof Jennifer Seddon, UQ Gatton Campus; <j.seddon1@uq.edu.au>
--   A/Prof Ricardo Soares Magalhães, UQ Gatton Campus; <r.magalhaes@uq.edu.au>
--   Dr Sonya Clegg, Oxford University; <sonya.clegg@zoo.ox.ac.uk>
+  - Prof Jennifer Seddon, UQ Gatton Campus; <j.seddon1@uq.edu.au>
+  - A/Prof Ricardo Soares Magalhães, UQ Gatton Campus;
+    <r.magalhaes@uq.edu.au>
+  - Dr Sonya Clegg, Oxford University; <sonya.clegg@zoo.ox.ac.uk>
