@@ -7,8 +7,7 @@
 
 # Dr Nicholas J Clark
 
-Postdoctoral Fellow - University of Queensland, School of Veterinary
-Science  
+Lecturer - University of Queensland, School of Veterinary Science  
 Gatton, Queensland, Australia - <nicholas.j.clark1214@gmail.com> -
 0432420979  
 [Homepage](http://nicholasjclark.weebly.com/) -
@@ -18,15 +17,15 @@ Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op
 
 ## Career Summary
 
-Flexible and engaging disease ecologist with experience studying the
-geographical and biotic determinants of pathogen transmission.
-Interested in developing computational phylogenetic tools and adapting
-techniques from statistical network theory to study how pathogens
-interact with their hosts across urbanisation gradients.
+Flexible and engaging molecular disease ecologist with experience
+studying the geographical and biotic determinants of pathogen
+transmission. Interested in developing computational phylogenetic tools
+and adapting techniques from statistical network theory to study how
+pathogens interact with their hosts across urbanisation gradients.
 
 ## Transferable Skills
 
-  - Strong communication skills: 27 publications in peer-reviewed
+  - Strong communication skills: 30 publications in peer-reviewed
     journals; six international presentations
   - Broad teaching experience: coordinated three undergraduate genetics
     courses
@@ -78,17 +77,27 @@ methods and field observations*
 
 ## Professional Experience
 
-**Postdoctoral Fellow / Lecturer (7/2016 - present)**  
+**Lecturer (08/2019 - Present)**  
+**University of Queensland**, School of Veterinary Science (Adviser:
+Prof Nigel Perkins)
+
+  - Supervising three RhD and two undergraduate students in disease
+    ecology and quantitative genetics
+  - Coordinating a second-year animal genetics course for BVetSci
+    students
+  - Leading a UQ Early Career Resarch Grant funded project on the use of
+    machine learning genetic algorithms to predict paraysis tick
+    infestation risk
+
+**Postdoctoral Fellow / Lecturer (7/2016 - 07/2019)**  
 **University of Queensland**, School of Veterinary Science (Adviser:
 A/Prof Ricardo Soares Magalhães)
 
-  - Leading a National Geographic / UQ Early Career Resarch Grant funded
-    project on the spread of parasites at the human-wildlife interface
+  - Led a National Geographic funded project on the spread of parasites
+    at the human-wildlife interface
   - Coordinated three UQ undergraduate genetics courses
-  - Supervising three RhD students in disease ecology and quantitative
-    genetics
-  - Developing novel network tools to study biotic interactions and
-    their influences on infection risk
+  - Developed novel network tools to study biotic interactions and their
+    influences on infection risk
 
 **Research Assistant (1/2016 - 7/16)**  
 **University of Queensland**, School of Veterinary Science (Adviser: Dr
@@ -197,13 +206,6 @@ and Seddon, J. Seascape genetics of a mobile marine mammal: evidence of
 an abrupt break in dugong (*Dugong dugon*, Müller) gene flow along
 Australia’s eastern Queensland coast (1st submission 29/04/19)
 
-**Clark, NJ**, Umulisa, I, Ruberanziza, E, Owada, K, Colley, DG, Ortu,
-G, Campbell, CH, Emmanuel, R, Lancaster, W, Mbonigaba, JB,
-Mbituyumuremyi, A, Fenwick, A, Soares Magalhães, RJ and Turate, I.
-Mapping *Schistosoma mansoni* endemicity in Rwanda: a critical
-assessment of geographical disparities arising from Circulating Cathodic
-Antigen versus Kato-Katz diagnostics (1st submission 24/04/19)
-
 **Clark, NJ**, Drovetski, SV and Voelker, G. Avian malaria in the
 changing climate: denser vegetation and warmer winters increase parasite
 infection risk in Western Palearctic birds. (1st submission 08/04/19)
@@ -221,6 +223,29 @@ alces*) gastrointestinal community composition (1st submission
 ## Full Publication List
 
 **2019**
+
+\[30\] Peel, AJ, Wells, K, Giles, J, Boyd, V, Burroughs, A, Edson, D,
+Crameri, G, Baker, ML, Field, H, Wang, LF, McCallum, H, Plowright, RK
+and **Clark, NJ**. Synchronous shedding of multiple bat paramyxoviruses
+coincides with peak periods of Hendra virus spillover. *Emerging
+Microbes & Infections* 8:1314-1323.
+
+\[29\] Fecchio, A, Bell, JA, Bosholn, M, Vaughan, JA, Tkach, VV, Lutz,
+HL, Cueto, VR, Gorosito, CA, González-Acuña, D, Stromlund, C, Kvasager,
+D, Comiche, KJM, Kirchgatter, K, Pinho, JB, Berv, J, Anciães, M,
+Fontana, CS, Zyskowski, K, Sampaio, S, Dispoto, JH, Galen, SC,
+Weckstein, JD, and **Clark, NJ**. An inverse latitudinal gradient in
+infection probability and phylogenetic diversity for Leucocytozoon blood
+parasites in New World birds. *Journal of Animal Ecology* DOI:
+10.1111/1365-2656.13117.
+
+\[28\] **Clark, NJ**, Umulisa, I, Ruberanziza, E, Owada, K, Colley, DG,
+Ortu, G, Campbell, CH, Emmanuel, R, Lancaster, W, Mbonigaba, JB,
+Mbituyumuremyi, A, Fenwick, A, Soares Magalhães, RJ and Turate, I.
+Mapping *Schistosoma mansoni* endemicity in Rwanda: a critical
+assessment of geographical disparities arising from Circulating Cathodic
+Antigen versus Kato-Katz diagnostics. *PLoS Neglected Tropical Diseases*
+DOI: <https://doi.org/10.1371/journal.pntd.0007723>
 
 \[27\] Ruberanziza, E, Owada, K, **Clark, NJ**, Umulisa, I, Ortu, G,
 Lancaster, W, Munyaneza, T, Mbituyumuremyi, A, Bayisenge, U, Fenwick, A,
@@ -602,8 +627,8 @@ Following my PhD I have devoted much of my postdoctoral work to
 coordinating, teaching and mentoring students. This has provided me with
 a set of leadership and organizational skills that is unique among my
 peers. It also taught me to be proficient with the time I have available
-for research. Since joining UQ SVS as a Postdoctoral Fellow in July
-2017, I have published seventeen papers, bringing my total to 27
+for research. Since first joining UQ SVS as a Postdoctoral Fellow in
+July 2017, I have published twenty papers, bringing my total to 30
 publications. The quality and significance of this work is reflected by
 my exemplary publication record in some of the top journals in disease
 ecology. According to *Web of Science* analytics, four of my papers are
