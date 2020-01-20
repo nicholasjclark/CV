@@ -25,7 +25,7 @@ pathogens interact with their hosts across urbanisation gradients.
 
 ## Transferable Skills
 
-  - Strong communication skills: 30 publications in peer-reviewed
+  - Strong communication skills: 31 publications in peer-reviewed
     journals; six international presentations
   - Broad teaching experience: coordinated three undergraduate genetics
     courses
@@ -33,10 +33,10 @@ pathogens interact with their hosts across urbanisation gradients.
     for molecular genetics and ecology research
   - Aptitude for leadership: trained six postgraduate students in
     bioinformatics and statistical techniques
-  - Proven ability to obtain funding: $237000 external funding from
+  - Proven ability to obtain funding: $247000 external funding from
     domestic and international organisations
-  - Industry networking experience: helped secured data-sharing
-    partnerships and developing joint proposals with three industry
+  - Industry networking experience: helped secure data-sharing
+    partnerships and develop joint proposals with three industry
     partners and one Australian government partner
   - Proficient programming with: `R`, `html`, `MATLAB`, `Markdown`,
     `git`
@@ -208,13 +208,8 @@ Australia’s eastern Queensland coast (1st submission 29/04/19)
 
 **Clark, NJ**, Drovetski, SV and Voelker, G. Avian malaria in the
 changing climate: denser vegetation and warmer winters increase parasite
-infection risk in Western Palearctic birds. (1st submission 08/04/19)
-
-Fountain-Jones, NM, **Clark, NJ**, Kinsley, AC, Carstensen, M, Johnson,
-TJ, Forester, J, Miller, E, Moore, S, Wolf, TM and Craft, ME. Microbial
-associations and spatial proximity predict North American moose (*Alces
-alces*) gastrointestinal community composition (1st submission
-07/01/19)
+infection risk in Western Palearctic birds. (1st submission
+08/04/19)
 
 ## Citations
 
@@ -223,6 +218,12 @@ alces*) gastrointestinal community composition (1st submission
 ## Full Publication List
 
 **2019**
+
+\[31\] Fountain-Jones, NM, **Clark, NJ**, Kinsley, AC, Carstensen, M,
+Johnson, TJ, Forester, J, Miller, E, Moore, S, Wolf, TM and Craft, ME.
+Microbial associations and spatial proximity predict North American
+moose (*Alces alces*) gastrointestinal community composition. *Journal
+of Animal Ecology* DOI: <https://doi.org/10.1111/1365-2656.13154>.
 
 \[30\] Peel, AJ, Wells, K, Giles, J, Boyd, V, Burroughs, A, Edson, D,
 Crameri, G, Baker, ML, Field, H, Wang, LF, McCallum, H, Plowright, RK
@@ -426,6 +427,10 @@ Diseases*, *Parasitology*, *Tropical Medicine and Infectious Disease*,
 
 **2019**
 
+**$AU10,178**: John and Mary Kibble Trust (co-authored the proposal).
+Deep sequencing of ß-tubulin genes to screen for possible drug
+resistance mechanisms in canine hookworms infecting Australian dogs
+
 **$AU35,090**: UQ Early Career Researcher Grant (authored the proposal).
 *TickAlert*: development of an integrated early warning surveillance
 platform for tick paralysis
@@ -628,7 +633,7 @@ coordinating, teaching and mentoring students. This has provided me with
 a set of leadership and organizational skills that is unique among my
 peers. It also taught me to be proficient with the time I have available
 for research. Since first joining UQ SVS as a Postdoctoral Fellow in
-July 2017, I have published twenty papers, bringing my total to 30
+July 2017, I have published 21 papers, bringing my total to 31
 publications. The quality and significance of this work is reflected by
 my exemplary publication record in some of the top journals in disease
 ecology. According to *Web of Science* analytics, four of my papers are

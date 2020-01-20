@@ -21,12 +21,12 @@ Gatton, Queensland, Australia - nicholas.j.clark1214@gmail.com - 0432420979
 Flexible and engaging molecular disease ecologist with experience studying the geographical and biotic determinants of pathogen transmission. Interested in developing computational phylogenetic tools and adapting techniques from statistical network theory to study how pathogens interact with their hosts across urbanisation gradients.
 
 ## Transferable Skills
-* Strong communication skills: 30 publications in peer-reviewed journals; six international presentations
+* Strong communication skills: 31 publications in peer-reviewed journals; six international presentations
 * Broad teaching experience: coordinated three undergraduate genetics courses
 * Extensive experience in bioinformatics: maintain two `R` packages for molecular genetics and ecology research
 * Aptitude for leadership: trained six postgraduate students in bioinformatics and statistical techniques
-* Proven ability to obtain funding: $237000 external funding from domestic and international organisations
-* Industry networking experience: helped secured data-sharing partnerships and developing joint proposals with three industry partners and one Australian government partner
+* Proven ability to obtain funding: $247000 external funding from domestic and international organisations
+* Industry networking experience: helped secure data-sharing partnerships and develop joint proposals with three industry partners and one Australian government partner
 * Proficient programming with: `R`, `html`, `MATLAB`, `Markdown`, `git`
 
 ## Qualifications
@@ -141,7 +141,6 @@ McGowan, A, Lanyon, J, **Clark, NJ**, Blair, D, Marsh, H, Wolanski, E, and Seddo
  
 **Clark, NJ**, Drovetski, SV and Voelker, G. Avian malaria in the changing climate: denser vegetation and warmer winters increase parasite infection risk in Western Palearctic birds. (1st submission 08/04/19)  
   
-Fountain-Jones, NM, **Clark, NJ**, Kinsley, AC, Carstensen, M, Johnson, TJ, Forester, J, Miller, E, Moore, S, Wolf, TM and Craft, ME. Microbial associations and spatial proximity predict North American moose (*Alces alces*) gastrointestinal community composition (1st submission 07/01/19)  
 
 ## Citations
 ```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4.4, message=FALSE, warning=FALSE}
@@ -154,6 +153,8 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 ## Full Publication List
 **2019**  
    
+[31]  Fountain-Jones, NM, **Clark, NJ**, Kinsley, AC, Carstensen, M, Johnson, TJ, Forester, J, Miller, E, Moore, S, Wolf, TM and Craft, ME. Microbial associations and spatial proximity predict North American moose (*Alces alces*) gastrointestinal community composition. *Journal of Animal Ecology* DOI: https://doi.org/10.1111/1365-2656.13154.  
+  
 [30]  Peel, AJ, Wells, K, Giles, J, Boyd, V, Burroughs, A, Edson, D, Crameri, G, Baker, ML, Field, H, Wang, LF, McCallum, H, Plowright, RK and **Clark, NJ**. Synchronous shedding of multiple bat paramyxoviruses coincides with peak periods of Hendra virus spillover. *Emerging Microbes & Infections* 8:1314-1323.  
   
 [29] Fecchio, A, Bell, JA, Bosholn, M, Vaughan, JA, Tkach, VV, Lutz, HL, Cueto, VR, Gorosito, CA, González-Acuña, D, Stromlund, C, Kvasager, D, Comiche, KJM, Kirchgatter, K, Pinho, JB, Berv, J, Anciães, M, Fontana, CS, Zyskowski, K, Sampaio, S, Dispoto, JH, Galen, SC, Weckstein, JD, and **Clark, NJ**. An inverse latitudinal gradient in infection probability and phylogenetic diversity for Leucocytozoon blood parasites in New World birds. *Journal of Animal Ecology* DOI: 10.1111/1365-2656.13117.  
@@ -249,6 +250,8 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 
 ## Funding Support
 **2019**  
+ 
+**$AU10,178**: John and Mary Kibble Trust (co-authored the proposal). Deep sequencing of ß-tubulin genes to screen for possible drug resistance mechanisms in canine hookworms infecting Australian dogs    
   
 **$AU35,090**: UQ Early Career Researcher Grant (authored the proposal). *TickAlert*: development of an integrated early warning surveillance platform for tick paralysis
 
@@ -390,7 +393,7 @@ Accepted for competitive placement with travel funds; Malaria RCN Student Worksh
 ## Relative to Opportunity
 I completed my undergraduate degree (Bachelor of Science; GPA 4.0) in 2009 and a Graduate Diploma by Research Methods in 2011 (High Distinction average). I began my PhD in February 2012 and finished in April 2016, delivering a thesis with six published chapters and two published appendices. This work provided new insights into mechanisms driving the distributions of malaria parasites in birds. I gained a solid background in molecular epidemiology and phylogenomics, two fields that sit at the nexus of zoonotic disease research.
   
-Following my PhD I have devoted much of my postdoctoral work to coordinating, teaching and mentoring students. This has provided me with a set of leadership and organizational skills that is unique among my peers. It also taught me to be proficient with the time I have available for research. Since first joining UQ SVS as a Postdoctoral Fellow in July 2017, I have published twenty papers, bringing my total to 30 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in disease ecology. According to *Web of Science* analytics, four of my papers are among the top 10 most cited articles published at my institution in the last two years (out of 296 total articles). My research has garnered international recognition. I was invited to present work on new statistical tools for studying parasite epidemiology at the Ecological Society of Australia's 2018 International Conference and at the Australian Society for Parasitology’s 2017 International Conference. Recently, I was sponsored to present my molecular analysis work at Texas A&M University's *Ecology and Evolutionary Biology* seminar series.
+Following my PhD I have devoted much of my postdoctoral work to coordinating, teaching and mentoring students. This has provided me with a set of leadership and organizational skills that is unique among my peers. It also taught me to be proficient with the time I have available for research. Since first joining UQ SVS as a Postdoctoral Fellow in July 2017, I have published 21 papers, bringing my total to 31 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in disease ecology. According to *Web of Science* analytics, four of my papers are among the top 10 most cited articles published at my institution in the last two years (out of 296 total articles). My research has garnered international recognition. I was invited to present work on new statistical tools for studying parasite epidemiology at the Ecological Society of Australia's 2018 International Conference and at the Australian Society for Parasitology’s 2017 International Conference. Recently, I was sponsored to present my molecular analysis work at Texas A&M University's *Ecology and Evolutionary Biology* seminar series.
 
 ## Referees
 * Prof Jennifer Seddon, UQ Gatton Campus; j.seddon1@uq.edu.au 
