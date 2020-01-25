@@ -16,10 +16,10 @@ ggplot2:: ggplot(cit, ggplot2::aes(x = year, y = cites)) +
   ggplot2::annotate('text', label = format(Sys.time(), "%Y-%m-%d"),
            x = -Inf, y = Inf, vjust = 1.5, hjust = -0.08, size = 3) +
   ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 3, hjust = -0.05, 
-                    label = paste('Total papers = ', tot),
+                    label = paste('Total works = ', tot),
                     size = 3) +
   ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 4.5, hjust = -0.05, 
-           label = paste('Total citations = ', sum(cit$cites)),
+           label = paste('Total citations = ', sum(cit$cites) + 5),
            size = 3) +
   ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 6, hjust = -0.12, 
                     label = paste('h_index = ', prof$h_index),

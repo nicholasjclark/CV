@@ -25,7 +25,7 @@ pathogens interact with their hosts across urbanisation gradients.
 
 ## Transferable Skills
 
-  - Strong communication skills: 31 publications in peer-reviewed
+  - Strong communication skills: 30 publications in peer-reviewed
     journals; six international presentations
   - Broad teaching experience: coordinated three undergraduate genetics
     courses
@@ -633,7 +633,7 @@ coordinating, teaching and mentoring students. This has provided me with
 a set of leadership and organizational skills that is unique among my
 peers. It also taught me to be proficient with the time I have available
 for research. Since first joining UQ SVS as a Postdoctoral Fellow in
-July 2017, I have published 21 papers, bringing my total to 31
+July 2017, I have published 20 papers, bringing my total to 30
 publications. The quality and significance of this work is reflected by
 my exemplary publication record in some of the top journals in disease
 ecology. According to *Web of Science* analytics, four of my papers are
