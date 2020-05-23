@@ -25,7 +25,7 @@ pathogens interact with their hosts across urbanisation gradients.
 
 ## Transferable Skills
 
-  - Strong communication skills: 30 publications in peer-reviewed
+  - Strong communication skills: 34 publications in peer-reviewed
     journals; six international presentations
   - Broad teaching experience: coordinated three undergraduate genetics
     courses
@@ -86,7 +86,7 @@ Prof Nigel Perkins)
   - Coordinating a second-year animal genetics course for BVetSci
     students
   - Leading a UQ Early Career Resarch Grant funded project on the use of
-    machine learning genetic algorithms to predict paraysis tick
+    machine learning genetic algorithms to forecast paraysis tick
     infestation risk
 
 **Postdoctoral Fellow / Lecturer (7/2016 - 07/2019)**  
@@ -191,20 +191,19 @@ methods and field observations*
 
 ## Publications in Review
 
-**Clark, NJ**, Owada, K, Ruberanziza, E, Ortu, G, Umulisa, I, Bayisenge,
-U, Mbonigaba, JB, Mucaca, JB, Lancaster, W, Fenwick, A, Soares
-Magalhães, RJ, and Mbituyumuremyi, A. Parasite associations predict
-infection risk: incorporating co-infections in predictive models for
-neglected tropical diseases (1st submission 30/04/19)
-
 **Clark, NJ**, Kerry, JT, and Fraser, CI. Rapid winter warming will
-disproportionately disrupt marine fish community structure (1st
-submission 30/04/19)
+disproportionately disrupt marine fish community structure (3rd
+submission 15/05/20)
+
+Abeykoon, H, **Clark, NJ**, Vincent, GA, Stevenson, M, Firestone, SM,
+and Wietholter, A. *Coxiella burnetii* in the environment: a systematic
+review and critical appraisal of sampling methods (1st submission
+09/12/19)
 
 McGowan, A, Lanyon, J, **Clark, NJ**, Blair, D, Marsh, H, Wolanski, E,
 and Seddon, J. Seascape genetics of a mobile marine mammal: evidence of
 an abrupt break in dugong (*Dugong dugon*, Müller) gene flow along
-Australia’s eastern Queensland coast (1st submission 29/04/19)
+Australia’s eastern Queensland coast (2nd submission 18/01/20)
 
 **Clark, NJ**, Drovetski, SV and Voelker, G. Avian malaria in the
 changing climate: denser vegetation and warmer winters increase parasite
@@ -216,6 +215,26 @@ infection risk in Western Palearctic birds. (1st submission
 <img src="README_files/figure-gfm/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
 ## Full Publication List
+
+**2020**
+
+\[34\] Mone, NK, **Clark, NJ**, Kyaw-Tanner, M, Turni, C, Barnes, TS,
+Parke, CR, Alawneh, JA, Blackall, PJ, and Meers, J. 2020. Genetic
+analysis of porcine circovirus type 2 (PCV2) in Queensland, Australia.
+*Australian Veterinary Journal* DOI: <https://doi.org/10.1111/avj.12952>
+
+\[33\] **Clark, NJ**, Tozer, S, Wood, C, Firestone, SM, Stevenson, M,
+Caraguel, C, Chaber, AL, Heller, J, and Soares Magalhães, RJ. 2020.
+Unravelling animal exposure profiles of human Q fever cases in
+Queensland, Australia using natural language processing. *Transboundary
+and Emerging Diseases* DOI: <https://doi.org/10.1111/tbed.13565>
+
+\[32\] **Clark, NJ**, Owada, K, Ruberanziza, E, Ortu, G, Umulisa, I,
+Bayisenge, U, Mbonigaba, JB, Mucaca, JB, Lancaster, W, Fenwick, A,
+Soares Magalhães, RJ, and Mbituyumuremyi, A. Parasite associations
+predict infection risk: incorporating co-infections in predictive models
+for neglected tropical diseases. *Parasites & Vectors* DOI:
+10.1186/s13071-020-04016-2
 
 **2019**
 
@@ -633,7 +652,7 @@ coordinating, teaching and mentoring students. This has provided me with
 a set of leadership and organizational skills that is unique among my
 peers. It also taught me to be proficient with the time I have available
 for research. Since first joining UQ SVS as a Postdoctoral Fellow in
-July 2017, I have published 20 papers, bringing my total to 30
+July 2017, I have published 24 papers, bringing my total to 34
 publications. The quality and significance of this work is reflected by
 my exemplary publication record in some of the top journals in disease
 ecology. According to *Web of Science* analytics, four of my papers are
