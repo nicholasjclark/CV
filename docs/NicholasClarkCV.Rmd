@@ -14,14 +14,14 @@ Dr Nicholas J Clark
 =============================
 Lecturer - University of Queensland, School of Veterinary Science   
 Gatton, Queensland, Australia - nicholas.j.clark1214@gmail.com - 0432420979  
-[Homepage](http://nicholasjclark.weebly.com/) - [Github](https://github.com/nicholasjclark) - [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op=list_works&gmla=AJsN-F7bdYY9zcTVOHPEOVWZOJmCtgWpcxs_93x6Nxu1saXGdZjQLZ9byuM7Bdln9uk-HvNvAG1pThmdF6m_XgubeW0Q2sVTsjvpgou00G94hSHvb99iNTk) - [ResearchGate](https://www.researchgate.net/profile/Nicholas_Clark4)
+[Homepage](http://nicholasjclark.weebly.com/) - [Github](https://github.com/nicholasjclark) - [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op=list_works&gmla=AJsN-F7bdYY9zcTVOHPEOVWZOJmCtgWpcxs_93x6Nxu1saXGdZjQLZ9byuM7Bdln9uk-HvNvAG1pThmdF6m_XgubeW0Q2sVTsjvpgou00G94hSHvb99iNTk)
 
 
 ## Career Summary
 Flexible and engaging molecular disease ecologist with experience studying the geographical and biotic determinants of pathogen transmission. Interested in developing computational phylogenetic tools and adapting techniques from statistical network theory to study how pathogens interact with their hosts across urbanisation gradients.
 
 ## Transferable Skills
-* Strong communication skills: 34 publications in peer-reviewed journals; six international presentations
+* Strong communication skills: 36 publications in peer-reviewed journals; six international presentations
 * Broad teaching experience: coordinated three undergraduate genetics courses
 * Extensive experience in bioinformatics: maintain two `R` packages for molecular genetics and ecology research
 * Aptitude for leadership: trained six postgraduate students in bioinformatics and statistical techniques
@@ -133,13 +133,9 @@ Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field ob
 \pagebreak
 
 ## Publications in Review
-**Clark, NJ**, Kerry, JT, and Fraser, CI. Rapid winter warming will disproportionately disrupt marine fish community structure (3rd submission 15/05/20)  
-  
 Abeykoon, H, **Clark, NJ**, Vincent, GA, Stevenson, M, Firestone, SM, and Wietholter, A. *Coxiella burnetii* in the environment: a systematic review and critical appraisal of sampling methods (1st submission 09/12/19)  
   
 McGowan, A, Lanyon, J, **Clark, NJ**, Blair, D, Marsh, H, Wolanski, E, and Seddon, J. Seascape genetics of a mobile marine mammal: evidence of an abrupt break in dugong (*Dugong dugon*, Müller) gene flow along Australia’s eastern Queensland coast (2nd submission 18/01/20)  
- 
-**Clark, NJ**, Drovetski, SV and Voelker, G. Avian malaria in the changing climate: denser vegetation and warmer winters increase parasite infection risk in Western Palearctic birds. (1st submission 08/04/19)  
 
 ## Citations
 ```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4.4, message=FALSE, warning=FALSE}
@@ -151,6 +147,10 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 
 ## Full Publication List
 **2020**  
+  
+[36] **Clark, NJ**, Drovetski, SV and Voelker, G. Robust geographical determinants of infection prevalence and a contrasting latitudinal diversity gradient for haemosporidian parasites in Western Palearctic birds. *Molecular Ecology* DOI: https://doi.org/10.1111/mec.15545 (IF: 6.086)   
+  
+[35] **Clark, NJ**, Kerry, JT, and Fraser, CI. Rapid winter warming will disproportionately disrupt marine fish community structure *Nature Climate Change* DOI: https://doi.org/10.1038/s41558-020-0838-5 (IF: 20.893)  
   
 [34] Mone, NK, **Clark, NJ**, Kyaw-Tanner, M, Turni, C, Barnes, TS, Parke, CR, Alawneh, JA, Blackall, PJ, and Meers, J. Genetic analysis of porcine circovirus type 2 (PCV2) in Queensland, Australia. *Australian Veterinary Journal* DOI: https://doi.org/10.1111/avj.12952 (IF: 0.887)  
   
@@ -314,7 +314,7 @@ Co-supervising UQ PhD student (T. Proboste), studying population genomics and ho
 **2019**  
 Authored media article: Australia’s drought could be increasing Q fever risk, but there are ways we can protect ourselves [*The Conversation*](https://theconversation.com/australias-drought-could-be-increasing-q-fever-risk-but-there-are-ways-we-can-protect-ourselves-112297)    
 Authored media article: Towards pre-empting global disease spread [*The Conversation*](https://theconversation.com/drafts/115660/edit)  
-Oral presentation: *Ecology and Evolutionary Biology* seminar series, Texax A&M University, College Station, USA    
+Oral presentation: *Ecology and Evolutionary Biology* seminar series, Texas A&M University, College Station, USA    
   
 **2018**  
   
@@ -400,7 +400,7 @@ Accepted for competitive placement with travel funds; Malaria RCN Student Worksh
 ## Relative to Opportunity
 I completed my undergraduate degree (Bachelor of Science; GPA 4.0) in 2009 and a Graduate Diploma by Research Methods in 2011 (High Distinction average). I began my PhD in February 2012 and finished in April 2016, delivering a thesis with six published chapters and two published appendices. This work provided new insights into mechanisms driving the distributions of malaria parasites in birds. I gained a solid background in molecular epidemiology and phylogenomics, two fields that sit at the nexus of zoonotic disease research.
   
-Following my PhD I have devoted much of my postdoctoral work to coordinating, teaching and mentoring students. This has provided me with a set of leadership and organizational skills that is unique among my peers. It also taught me to be proficient with the time I have available for research. Since first joining UQ SVS as a Postdoctoral Fellow in July 2017, I have published 24 papers, bringing my total to 34 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in disease ecology. According to *Web of Science* analytics, four of my papers are among the top 10 most cited articles published at my institution in the last two years (out of 296 total articles). My research has garnered international recognition. I was invited to present work on new statistical tools for studying parasite epidemiology at the Ecological Society of Australia's 2018 International Conference and at the Australian Society for Parasitology’s 2017 International Conference. Recently, I was sponsored to present my molecular analysis work at Texas A&M University's *Ecology and Evolutionary Biology* seminar series.
+Following my PhD I have devoted much of my postdoctoral work to coordinating, teaching and mentoring students. This has provided me with a set of leadership and organizational skills that is unique among my peers. It also taught me to be proficient with the time I have available for research. Since first joining UQ SVS as a Postdoctoral Fellow in July 2017, I have published 26 papers, bringing my total to 36 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in disease ecology. According to *Web of Science* analytics, four of my papers are among the top 10 most cited articles published at my institution in the last two years (out of 296 total articles). My research has garnered international recognition. I was invited to present work on new statistical tools for studying parasite epidemiology at the Ecological Society of Australia's 2018 International Conference and at the Australian Society for Parasitology’s 2017 International Conference. Recently, I was sponsored to present my molecular analysis work at Texas A&M University's *Ecology and Evolutionary Biology* seminar series.
 
 ## Referees
 * Prof Jennifer Seddon, UQ Gatton Campus; j.seddon1@uq.edu.au 

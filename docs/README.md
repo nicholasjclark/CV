@@ -13,7 +13,6 @@ Gatton, Queensland, Australia - <nicholas.j.clark1214@gmail.com> -
 [Homepage](http://nicholasjclark.weebly.com/) -
 [Github](https://github.com/nicholasjclark) - [Google
 Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op=list_works&gmla=AJsN-F7bdYY9zcTVOHPEOVWZOJmCtgWpcxs_93x6Nxu1saXGdZjQLZ9byuM7Bdln9uk-HvNvAG1pThmdF6m_XgubeW0Q2sVTsjvpgou00G94hSHvb99iNTk)
-- [ResearchGate](https://www.researchgate.net/profile/Nicholas_Clark4)
 
 ## Career Summary
 
@@ -25,7 +24,7 @@ pathogens interact with their hosts across urbanisation gradients.
 
 ## Transferable Skills
 
-  - Strong communication skills: 34 publications in peer-reviewed
+  - Strong communication skills: 36 publications in peer-reviewed
     journals; six international presentations
   - Broad teaching experience: coordinated three undergraduate genetics
     courses
@@ -191,10 +190,6 @@ methods and field observations*
 
 ## Publications in Review
 
-**Clark, NJ**, Kerry, JT, and Fraser, CI. Rapid winter warming will
-disproportionately disrupt marine fish community structure (3rd
-submission 15/05/20)
-
 Abeykoon, H, **Clark, NJ**, Vincent, GA, Stevenson, M, Firestone, SM,
 and Wietholter, A. *Coxiella burnetii* in the environment: a systematic
 review and critical appraisal of sampling methods (1st submission
@@ -203,12 +198,8 @@ review and critical appraisal of sampling methods (1st submission
 McGowan, A, Lanyon, J, **Clark, NJ**, Blair, D, Marsh, H, Wolanski, E,
 and Seddon, J. Seascape genetics of a mobile marine mammal: evidence of
 an abrupt break in dugong (*Dugong dugon*, Müller) gene flow along
-Australia’s eastern Queensland coast (2nd submission 18/01/20)
-
-**Clark, NJ**, Drovetski, SV and Voelker, G. Avian malaria in the
-changing climate: denser vegetation and warmer winters increase parasite
-infection risk in Western Palearctic birds. (1st submission
-08/04/19)
+Australia’s eastern Queensland coast (2nd submission
+18/01/20)
 
 ## Citations
 
@@ -217,6 +208,17 @@ infection risk in Western Palearctic birds. (1st submission
 ## Full Publication List
 
 **2020**
+
+\[36\] **Clark, NJ**, Drovetski, SV and Voelker, G. Robust geographical
+determinants of infection prevalence and a contrasting latitudinal
+diversity gradient for haemosporidian parasites in Western Palearctic
+birds. *Molecular Ecology* DOI: <https://doi.org/10.1111/mec.15545> (IF:
+6.086)
+
+\[35\] **Clark, NJ**, Kerry, JT, and Fraser, CI. Rapid winter warming
+will disproportionately disrupt marine fish community structure *Nature
+Climate Change* DOI: <https://doi.org/10.1038/s41558-020-0838-5> (IF:
+20.893)
 
 \[34\] Mone, NK, **Clark, NJ**, Kyaw-Tanner, M, Turni, C, Barnes, TS,
 Parke, CR, Alawneh, JA, Blackall, PJ, and Meers, J. Genetic analysis of
@@ -532,7 +534,7 @@ Conversation*](https://theconversation.com/australias-drought-could-be-increasin
 Authored media article: Towards pre-empting global disease spread [*The
 Conversation*](https://theconversation.com/drafts/115660/edit)  
 Oral presentation: *Ecology and Evolutionary Biology* seminar series,
-Texax A\&M University, College Station, USA
+Texas A\&M University, College Station, USA
 
 **2018**
 
@@ -655,7 +657,7 @@ coordinating, teaching and mentoring students. This has provided me with
 a set of leadership and organizational skills that is unique among my
 peers. It also taught me to be proficient with the time I have available
 for research. Since first joining UQ SVS as a Postdoctoral Fellow in
-July 2017, I have published 24 papers, bringing my total to 34
+July 2017, I have published 26 papers, bringing my total to 36
 publications. The quality and significance of this work is reflected by
 my exemplary publication record in some of the top journals in disease
 ecology. According to *Web of Science* analytics, four of my papers are
