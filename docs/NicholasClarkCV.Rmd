@@ -3,7 +3,9 @@ header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \usepackage[dvipsnames]{xcolor}
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 urlcolor: blue
 ---
 
@@ -12,20 +14,20 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 Dr Nicholas J Clark
 =============================
-Lecturer - University of Queensland, School of Veterinary Science   
+ARC DECRA Fellow- University of Queensland, School of Veterinary Science   
 Gatton, Queensland, Australia - nicholas.j.clark1214@gmail.com - 0432420979  
-[Homepage](http://nicholasjclark.weebly.com/) - [Github](https://github.com/nicholasjclark) - [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op=list_works&gmla=AJsN-F7bdYY9zcTVOHPEOVWZOJmCtgWpcxs_93x6Nxu1saXGdZjQLZ9byuM7Bdln9uk-HvNvAG1pThmdF6m_XgubeW0Q2sVTsjvpgou00G94hSHvb99iNTk)
+[Homepage](https://researchers.uq.edu.au/researcher/15140) - [Github](https://github.com/nicholasjclark) - [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op=list_works&gmla=AJsN-F7bdYY9zcTVOHPEOVWZOJmCtgWpcxs_93x6Nxu1saXGdZjQLZ9byuM7Bdln9uk-HvNvAG1pThmdF6m_XgubeW0Q2sVTsjvpgou00G94hSHvb99iNTk)
 
 
 ## Career Summary
-Flexible and engaging molecular disease ecologist with experience studying the geographical and biotic determinants of pathogen transmission. Interested in developing computational phylogenetic tools and adapting techniques from statistical network theory to study how pathogens interact with their hosts across urbanisation gradients.
+Ecologist with experience studying the geographical and biotic determinants of ecological community assembly. Interested in developing computational tools and adapting techniques from statistical network and time series forecasting theory to study ecological responses to environmental change.
 
 ## Transferable Skills
-* Strong communication skills: 36 publications in peer-reviewed journals; six international presentations
+* Strong communication skills: >40 publications in peer-reviewed journals; >10 international presentations
 * Broad teaching experience: coordinated three undergraduate genetics courses
-* Extensive experience in bioinformatics: maintain two `R` packages for molecular genetics and ecology research
+* Extensive experience in bioinformatics: maintain four `R` packages for molecular genetics and ecology research
 * Aptitude for leadership: trained six postgraduate students in bioinformatics and statistical techniques
-* Proven ability to obtain funding: $247000 external funding from domestic and international organisations
+* Proven ability to obtain funding: >$700,000 external funding from domestic and international organisations
 * Industry networking experience: helped secure data-sharing partnerships and develop joint proposals with three industry partners and one Australian government partner
 * Proficient programming with: `R`, `html`, `MATLAB`, `Markdown`, `git`
 
@@ -54,7 +56,13 @@ Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field ob
 \pagebreak
 
 ## Professional Experience
-**Lecturer (08/2019 - Present)**  
+**ARC DECRA Fellow (02/2021 - present)**  
+**University of Queensland**, School of Veterinary Science
+
+* Supervising three RhD students in multivariate modelling and veterinary epidemiology
+* Leading innovative research on the use of multivariate time series models for forecasting ecological responses to change
+
+**Lecturer (08/2019 - 02/2021)**  
 **University of Queensland**, School of Veterinary Science (Adviser: Prof Nigel Perkins)
 
 * Supervising three RhD and two undergraduate students in disease ecology and quantitative genetics
@@ -132,11 +140,6 @@ Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field ob
 
 \pagebreak
 
-## Publications in Review
-Abeykoon, H, **Clark, NJ**, Vincent, GA, Stevenson, M, Firestone, SM, and Wietholter, A. *Coxiella burnetii* in the environment: a systematic review and critical appraisal of sampling methods (1st submission 09/12/19)  
-  
-McGowan, A, Lanyon, J, **Clark, NJ**, Blair, D, Marsh, H, Wolanski, E, and Seddon, J. Seascape genetics of a mobile marine mammal: evidence of an abrupt break in dugong (*Dugong dugon*, Müller) gene flow along Australia’s eastern Queensland coast (2nd submission 18/01/20)  
-
 ## Citations
 ```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4.4, message=FALSE, warning=FALSE}
 source('scholar_summary.R')
@@ -146,6 +149,24 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 \pagebreak
 
 ## Full Publication List
+**2022** 
+  
+[43] **Clark, NJ**, Proboste, T, Weerasinghe, G, Soares Magalhaes, RJ. Near-term forecasting of companion animal tick paralysis incidence: An iterative ensemble model. *PLoS Computational Biology* DOI: https://doi.org/10.1371/journal.pcbi.1009874 (IF: 4.710)
+ 
+**2021**  
+  
+[42] Fecchio, A, et al. Global drivers of avian haemosporidian infections vary across zoogeographical regions. *Global Ecology and Biogeography* DOI: https://doi.org/10.1111/geb.13390 (IF: 6.045) 
+ 
+[41] Hill, AG, **Clark, NJ**,  Tokonami, F. Tick paralysis in Australian birds caused by *Ixodes holocyclus*. *Australian Veterinary Journal* DOI: https://doi.org/10.1111/avj.13119 (IF: 0.840) 
+ 
+[40] Hill, AG,  Boyd, SP, **Clark, NJ**,  Proboste, T. Haemoprotozoa in wild short‐beaked echidnas (*Tachyglossus aculeatus*). *Australian Veterinary Journal* DOI: https://doi.org/10.1111/avj.13132 (IF: 0.840) 
+ 
+[39] Fountain‐Jones, NM, Kozakiewicz, CP,Forester, BR,Landguth, EL, Carver, SC, Charleston, M, Gagne, RB,  Greenwell, B, Kraberger, S, Trumbo, DR, Mayer, M, **Clark, NJ**, Machado, G. MrIML: Multi‐response interpretable machine learning to model genomic landscapes. *Molecular Ecology Resources* DOI: https://doi.org/10.1111/1755-0998.13495 (IF: 6.185) 
+ 
+[38] Nguyen, T, **Clark, NJ**, Jones, MK, Aaron Herndon, A, Mallyon, J, Soares Magalhaes, RJ, Abdullah, S. Perceptions of dog owners towards canine gastrointestinal parasitism and associated human health risk in Southeast Queensland. *One Health* DOI: https://doi.org/10.1016/j.onehlt.2021.100226 (IF: 3.570) 
+ 
+[37] Abeykoon, AMH, **Clark, NJ**, Soares Magalhaes, RJ, Vincent, GA,  Stevenson, MA, Firestone, SM, Wiethoelter, AK. **Coxiella burnetii** in the environment: A systematic review and critical appraisal of sampling methods. *Zoonoses and Public Health* DOI: https://doi.org/10.1111/zph.12791 (IF: 2.600) 
+
 **2020**  
   
 [36] **Clark, NJ**, Drovetski, SV and Voelker, G. Robust geographical determinants of infection prevalence and a contrasting latitudinal diversity gradient for haemosporidian parasites in Western Palearctic birds. *Molecular Ecology* DOI: https://doi.org/10.1111/mec.15545 (IF: 6.086)   
@@ -243,7 +264,6 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 **Service**  
   
 * Contributing member of UQ School of Veterinary Science Research Committee
-* Contributing member of UQ's Faculty of Science Equity, Diversity and Inclusion Committee
 * Served as panel member to mark three UQ RhD theses
 * Participated in teaching and assignment design for four undergraduate courses at UQ
 * Currently supervising three RhD students and one Honours student
@@ -256,6 +276,17 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 \pagebreak
 
 ## Funding Support
+**2022**
+
+**$AU10,000**: Feline Health Research Foundation (co-authored the proposal). Epidemiology of feline upper respiratory tract infections in shelter cats in Australia
+
+**2021**
+
+**$AU6,795**: John and Mary Kibble Trust (co-authored the proposal). Epidemiology of feline upper respiratory tract infections in shelter cats in Australia
+
+**2020**  
+**$AU445,009**: Australian Research Council Discovery Early Career Award. Towards reliable and explainable models for anticipating ecological change
+
 **2019**  
  
 **$AU10,178**: John and Mary Kibble Trust (co-authored the proposal). Deep sequencing of ß-tubulin genes to screen for possible drug resistance mechanisms in canine hookworms infecting Australian dogs    
@@ -292,7 +323,11 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 **$AU78,000**: Griffith University International Postgraduate Research Award  
 
 ## Mentoring And Research Training
-**2019 - present**  
+**2021 - present**  
+  
+Supervising two UQ PhD students (U. Kennedy and F. Powel), studying veterinary epidemiology of cat flu and multivariate models for predicting pathogen co-infections
+
+**2019 - 2020**  
   
 Supervising UQ Masters student (S. Gericke), developing a molecular toolkit to study the population genomics of cat fleas 
   
@@ -307,102 +342,3 @@ Co-supervising UQ PhD student (A. McGowan), studying seascape genomics of dugong
 **2016 - present**  
   
 Co-supervising UQ PhD student (T. Proboste), studying population genomics and host-parasite interactions in paralysis ticks  
-  
-\pagebreak
-
-## Presentations and Societal Impacts
-**2019**  
-Authored media article: Australia’s drought could be increasing Q fever risk, but there are ways we can protect ourselves [*The Conversation*](https://theconversation.com/australias-drought-could-be-increasing-q-fever-risk-but-there-are-ways-we-can-protect-ourselves-112297)    
-Authored media article: Towards pre-empting global disease spread [*The Conversation*](https://theconversation.com/drafts/115660/edit)  
-Oral presentation: *Ecology and Evolutionary Biology* seminar series, Texas A&M University, College Station, USA    
-  
-**2018**  
-  
-Authored media article: Our dogs and cats are spreading fleas around the world (and to us) [*The Conversation*](https://theconversation.com/our-dogs-and-cats-are-spreading-fleas-around-the-world-and-to-us-88069)    
-Oral presentation: Ecological Society of Australia Conference, Brisbane, Australia  
-Oral presentation: Ministerio de Salud de Chile (MINSAL) Q Fever Delegation, Gatton, Australia  
-  
-**2017**  
-  
-Oral presentation: Australian Society for Parasitology Conference, Leura, Australia  
-  
-
-**2016**  
-  
-Research used to frame a Question Without Notice in NSW Parliament
-  
-Oral presentation: Griffith University Wildlife Disease Ecology Group, Brisbane, Australia  
-  
-
-**2015**  
-  
-Interviewed on ABC Radio National and ABC Radio Gold Coast regarding research on exotic malaria strains spread by invasive birds  
-  
-Interviewed for feature stories in the Australian Society for Parasitology quarterly newsletter and in Australian Birdlife regarding research on avian malaria in Australian birds  
-  
-Oral presentation: University of Queensland ARC Cavity Nesting Group, Brisbane, Australia  
-  
-Oral presentation: Evolutionary Ecology of Infectious Diseases Conference, Athens, USA  
-  
-Oral presentation: Griffith University Wildlife Disease Ecology Group, Brisbane, Australia  
-  
-Poster presentation: Wildlife Disease Association Conference, Sunshine Coast, Australia  
-  
-
-**2014**  
-  
-Oral presentation: Queensland Ornithological Society, Brisbane, Australia  
-  
-Oral presentation: Australian Society for Parasitology Concepts in Parasitology Workshop, Canberra, Australia.  
-  
-Taught diagnostic techniques to students in a Parasitology High School Outreach Program at Ulladulla High School, Ulladulla, NSW, Australia  
-  
-
-**2013**  
-  
-Oral presentation: Centre for Integrative Ecology, Deakin University, Geelong, Australia  
-  
-Poster presentation: Malaria and Related Haemosporidians of Wildlife International Conference, Vilnius, Lithuania  
-
-**2012**  
-  
-Oral presentation: Malaria RCN Student Workshop, Virginia, USA  
-
-## Honours and Awards
-**2019**
-  
-Sponsored to deliver guest seminar for Texax A&M University's *Ecology and Evolutionary Biology* seminar series
-  
-**2018**
-  
-Invited to act as guest editor for a [*Tropical Medicine and Infectious Disease* Special Issue](http://www.mdpi.com/journal/tropicalmed/special_issues/Medical_Geography) on disease patterns in a changing environment  
-  
-**2017**  
-  
-Invited to act as co-chair for a Wildlife Parasitology session at the Australian Society for Parasitology Conference, Leura, Australia  
-  
-**2016**  
-  
-Research article featured on the cover and on the Editor’s Choice list at International Journal for Parasitology  
-  
-**2015**   
-  
-1st place oral presentation; Griffith University School of Environment Student Symposium  
-  
-**2014**  
-  
-Accepted for competitive placement with travel funds; Australian Society for Parasitology Concepts in Parasitology Workshop, Canberra, Australia  
-  
-**2012**  
-  
-Accepted for competitive placement with travel funds; Malaria RCN Student Workshop, Virginia, USA
-
-## Relative to Opportunity
-I completed my undergraduate degree (Bachelor of Science; GPA 4.0) in 2009 and a Graduate Diploma by Research Methods in 2011 (High Distinction average). I began my PhD in February 2012 and finished in April 2016, delivering a thesis with six published chapters and two published appendices. This work provided new insights into mechanisms driving the distributions of malaria parasites in birds. I gained a solid background in molecular epidemiology and phylogenomics, two fields that sit at the nexus of zoonotic disease research.
-  
-Following my PhD I have devoted much of my postdoctoral work to coordinating, teaching and mentoring students. This has provided me with a set of leadership and organizational skills that is unique among my peers. It also taught me to be proficient with the time I have available for research. Since first joining UQ SVS as a Postdoctoral Fellow in July 2017, I have published 26 papers, bringing my total to 36 publications. The quality and significance of this work is reflected by my exemplary publication record in some of the top journals in disease ecology. According to *Web of Science* analytics, four of my papers are among the top 10 most cited articles published at my institution in the last two years (out of 296 total articles). My research has garnered international recognition. I was invited to present work on new statistical tools for studying parasite epidemiology at the Ecological Society of Australia's 2018 International Conference and at the Australian Society for Parasitology’s 2017 International Conference. Recently, I was sponsored to present my molecular analysis work at Texas A&M University's *Ecology and Evolutionary Biology* seminar series.
-
-## Referees
-* Prof Jennifer Seddon, UQ Gatton Campus; j.seddon1@uq.edu.au 
-* A/Prof Ricardo Soares Magalhães, UQ Gatton Campus; r.magalhaes@uq.edu.au
-* Dr Sonya Clegg, Oxford University; sonya.clegg@zoo.ox.ac.uk
