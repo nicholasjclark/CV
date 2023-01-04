@@ -42,7 +42,7 @@ Thesis: *The distribution and diversity of avian malaria parasites in Australian
 **James Cook University** (Supervisors: Prof Garry Russ, Dr Lynne van Herwerden)
 Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field observations*
 
-* Lead volunteer divers on two field trips to conduct marine abundance and habitat complexity surveys
+* Led volunteer divers on two field trips to conduct marine abundance and habitat complexity surveys
 * Developed laboratory skills to conduct high-throughput genetic analyses
 * Obtained a high distinction in a Sampling and Experimental Design course and developed key programming skills to build hierarchical models
 
@@ -113,28 +113,6 @@ Undergraduate (2nd year Veterinary Science), semesters 1 and 2
 
 * Collaborated with fellow tutors to lead laboratory and theory tutorials
 * Marked assignments
-
-## Education
-**PhD**  
-**Griffith University** (Supervisors: Dr Sonya Clegg, Dr Robert Adlard, Prof. Hamish McCallum)  
-Thesis: *The distribution and diversity of avian malaria parasites in Australian and Southern Melanesian birds*
-  
-* Led field expeditions in diverse habitats on four islands in New Caledonia and across two Australian states
-* Acquired extensive experience programming molecular ecology analyses for multistructure datasets using both frequentist and Bayesian techniques
-* Published ten peer-reviewed papers over four years; six chapters published by submission
-
-**GDipResMeth**  
-**James Cook University** (Supervisors: Prof Garry Russ, Dr Lynne van Herwerden)
-Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field observations*
-
-* Lead volunteer divers on two field trips to conduct marine abundance and habitat complexity surveys
-* Developed laboratory skills to conduct high-throughput genetic analyses
-* Obtained a high distinction in a Sampling and Experimental Design course and developed key programming skills to build hierarchical molecular models
-
-**BSc (honours)**  
-**University of North Carolina at Wilmington**; North Carolina, USA
-
-* Dean’s list for academic achievement in all semesters (GPA 4.0/4.0)
 
 \pagebreak
 

@@ -4,6 +4,7 @@ header-includes:
 - \pagestyle{fancy}
 - \usepackage[dvipsnames]{xcolor}
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 urlcolor: blue
@@ -20,12 +21,13 @@ Gatton, Queensland, Australia - nicholas.j.clark1214@gmail.com - 0432420979
 
 
 ## Career Summary
-Ecologist with experience studying the geographical and biotic determinants of ecological community assembly. Interested in developing computational tools and adapting techniques from statistical network and time series forecasting theory to study ecological responses to environmental change.
+An ecologist by training – I hold a B.Sc. (Hons) in Marine Ecology from the University of North Carolina, Wilmington and a Ph.D. in Ecological Modelling from Griffith University. I am broadly interested in exploring new ways to (1) understand how natural communities are formed and (2) predict how they will change over time. As a DECRA fellow at UQ, my current research focuses on developing computational tools and adapting techniques from statistical forecasting to study how organisms and ecosystems respond to environmental change. This work can be applied to investigate natural dynamics for a range of ecological systems including wild birds, ectoparasites and microbes.
+
+I am an active member of the `R` community and have written and/or maintain several popular `R` packages. For example, I’m a lead developer on the `MRFcov` package for multivariate conditional random fields analyses. I also wrote the `mvgam` package for fitting dynamic Generalised Additive Models to analyse and forecast multivariate ecological time series.
 
 ## Transferable Skills
 * Strong communication skills: >40 publications in peer-reviewed journals; >12 international presentations
-* Broad teaching experience: coordinated three undergraduate genetics courses
-* Extensive experience in bioinformatics: maintain four `R` packages for molecular genetics and ecology research
+* Extensive experience in ecological programming: maintain four `R` packages for molecular genetics and ecology research
 * Aptitude for leadership: trained seven postgraduate students in bioinformatics and statistical techniques
 * Proven ability to obtain funding: >$700,000 external funding from domestic and international organisations
 * Industry networking experience: helped secure data-sharing partnerships and develop joint proposals with three industry partners and one Australian government partner
@@ -35,23 +37,13 @@ Ecologist with experience studying the geographical and biotic determinants of e
 **PhD**  
 **Griffith University** (Supervisors: Dr Sonya Clegg, Dr Robert Adlard, Prof. Hamish McCallum)  
 Thesis: *The distribution and diversity of avian malaria parasites in Australian and Southern Melanesian birds*
-  
-* Led field expeditions in diverse habitats on four islands in New Caledonia and across two Australian states
-* Acquired extensive experience programming epidemiological analyses for multistructure datasets using both frequentist and Bayesian techniques
-* Published ten peer-reviewed papers over four years, including six published chapters by submission of the thesis  
 
 **GDipResMeth**  
 **James Cook University** (Supervisors: Prof Garry Russ, Dr Lynne van Herwerden)
 Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field observations*
 
-* Led volunteer divers on two field trips to conduct marine abundance and habitat complexity surveys
-* Developed laboratory skills to conduct high-throughput genetic analyses
-* Obtained a high distinction in a Sampling and Experimental Design course and developed key programming skills to build hierarchical models
-
 **BSc (honours)**  
 **University of North Carolina at Wilmington**; North Carolina, USA
-
-* Dean’s list for academic achievement in all semesters (GPA 4.0/4.0)
 
 \pagebreak
 
@@ -81,42 +73,6 @@ Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field ob
 
 * Conducted molecular research into population genetics of soil-transmitted helminth parasites
 * Established protocols to develop next generation sequencing tools for cat fleas
-
-## Teaching Contributions
-**2017 - 18**  
-  
-**University of Queensland**, Gatton Campus: Ecological and Disease Genetics (Course Coordinator)  
-Undergraduate (3rd year Science), semester 1
-
-* Planned learning objectives; wrote the electronic course profile (ECP) and all assignments
-* Delivered flexible, interactive lectures and tutorials that were well-received by students
-* Achieved overwhelmingly positive feedback on student evaluations, including scores of ‘Outstanding’ for teacher ratings (SECaTs attached)
-
-**University of Queensland**, Gatton Campus: Animal Breeding and Genetics (Course Coordinator)  
-Undergraduate (Bachelor of Veterinary Medicine), semester 2
-
-* Planned learning objectives; contributed to preparation of assignments and end of semester exam
-* Independently lead theory-based genetics tutorials
-* Nominated for a ‘Golden Speculum’ Best Lecturer award for 2017
-
-**2016 - 17**  
-  
-**University of Queensland**, Gatton Campus: Molecular and Quantitative Plant Genetics; Molecular and Quantitative Animal Genetics (Lead tutor)  
-Undergraduate (2nd year Science and 2nd year Agriculture), semester 2
-
-* Independently lead laboratory and theory tutorials
-* Marked assignments and liaised with course coordinators to enhance curriculums
-
-**2015 - 17**  
-  
-**University of Queensland**, Gatton Campus: Animal Breeding and Molecular Genetics; Animal 
-Pathogens and Immunity; Principles of Disease (Assistant tutor)  
-Undergraduate (2nd year Veterinary Science), semesters 1 and 2
-
-* Collaborated with fellow tutors to lead laboratory and theory tutorials
-* Marked assignments
-
-\pagebreak
 
 ## Citations
 ```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4.4, message=FALSE, warning=FALSE}
@@ -260,8 +216,6 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 **Select Journals Refereed**  	
   
 *Nature Communications*, *Conservation Letters*, *Methods in Ecology and Evolution*, *German Centre for Integrative Biodiversity Research (iDiv)*, *Molecular Ecology*, *Ecological Monographs*, *Evolutionary Applications*, *Molecular Biology and Evolution*, *Malaria Journal*, *Ecology Letters*, *International Journal for Parasitology*, *Proceedings of the Royal Society B: Biological Sciences*
-
-\pagebreak
 
 ## Funding Support
 **2022**
