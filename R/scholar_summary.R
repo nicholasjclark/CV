@@ -18,13 +18,13 @@ ggplot2:: ggplot(cit, ggplot2::aes(x = year, y = cites)) +
   ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 3, hjust = -0.05, 
                     label = paste('Total papers = ', tot),
                     size = 3) +
-  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 4.5, hjust = -0.05, 
+  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 4, hjust = -0.05, 
            label = paste('Total citations = ', sum(cit$cites)),
            size = 3) +
-  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 6, hjust = -0.12, 
+  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 5.5, hjust = -0.12, 
                     label = paste('h_index = ', prof$h_index),
                     size = 3) + 
-  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 7.5, hjust = -0.12, 
+  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 6.5, hjust = -0.12, 
                     label = paste('i10_index = ', prof$i10_index),
                     size = 3) + 
   ggplot2::theme(panel.grid.major = ggplot2::element_blank(), 

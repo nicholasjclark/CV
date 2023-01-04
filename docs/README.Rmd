@@ -21,10 +21,10 @@ Gatton, Queensland, Australia - nicholas.j.clark1214@gmail.com - 0432420979
 Ecologist with experience studying the geographical and biotic determinants of ecological community assembly. Interested in developing computational tools and adapting techniques from statistical network and time series forecasting theory to study ecological responses to environmental change.
 
 ## Transferable Skills
-* Strong communication skills: >40 publications in peer-reviewed journals; >10 international presentations
+* Strong communication skills: >40 publications in peer-reviewed journals; >12 international presentations
 * Broad teaching experience: coordinated three undergraduate genetics courses
 * Extensive experience in bioinformatics: maintain four `R` packages for molecular genetics and ecology research
-* Aptitude for leadership: trained six postgraduate students in bioinformatics and statistical techniques
+* Aptitude for leadership: trained seven postgraduate students in bioinformatics and statistical techniques
 * Proven ability to obtain funding: >$700,000 external funding from domestic and international organisations
 * Industry networking experience: helped secure data-sharing partnerships and develop joint proposals with three industry partners and one Australian government partner
 * Proficient programming with: `R`, `html`, `MATLAB`, `Markdown`, `git`
@@ -81,7 +81,7 @@ Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field ob
 * Established protocols to develop next generation sequencing tools for cat fleas
 
 ## Teaching Contributions
-**2017**  
+**2017 - 18**  
   
 **University of Queensland**, Gatton Campus: Ecological and Disease Genetics (Course Coordinator)  
 Undergraduate (3rd year Science), semester 1
@@ -149,6 +149,16 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 ## Full Publication List
 **2022** 
   
+[48] Barshes, NR, **Clark, NJ**, Bidare, D, Dudenhoeffer, J-H, Mindru, C, Rodriguez-Barradas, MC. Polymicrobial Foot Infection Patterns Are Common and Associated With Treatment Failure. *Open Forum Infectious Diseases* DOI: https://doi.org/10.1093/ofid/ofac475 (IF: 3.385)
+
+[47] **Clark, NJ**, Wells, K. Dynamic Generalised Additive Models (DGAMs) for forecasting discrete ecological time series. *Methods in Ecology and Evolution* DOI: https://doi.org/10.1111/2041-210X.13974 (IF: 8.330)
+
+[46] Proboste, T, **Clark, NJ**, Tozer, S, Wood, C, Lambert, SB, Soares Magalhaes, RJ. Profiling risk factors for household and community spatiotemporal clusters of Q fever notifications in Queensland between 2002 and 2017. *Pathogens* DOI: https://doi.org/10.3390/pathogens11080830 (IF: 4.531)
+
+[45] Mshelbwala, PP, Weese, JS, **Clark, NJ**, Tekki, I, Chakma, S, Chakma, D, Mahmun, A, Rupprecht, CE, Soares Magalhaes, RJ. Spatiotemporal heterogeneity and determinants of canine rabies evidence at Local Government Area Level in Nigeria: Implications for rabies prevention and control. *One Health* DOI: https://doi.org/10.1016/j.onehlt.2022.100378 (IF: 3.569)
+
+[44] Powell‐Romero, F, Fountain‐Jones, F, Norberg, A, **Clark, NJ**. Improving the predictability and interpretability of co‐occurrence modelling through feature‐based joint species distribution ensembles. *Methods in Ecology and Evolution* DOI: https://doi.org/10.1111/2041-210X.13915 (IF: 8.330)
+
 [43] **Clark, NJ**, Proboste, T, Weerasinghe, G, Soares Magalhaes, RJ. Near-term forecasting of companion animal tick paralysis incidence: An iterative ensemble model. *PLoS Computational Biology* DOI: https://doi.org/10.1371/journal.pcbi.1009874 (IF: 4.710)
  
 **2021**  
@@ -267,9 +277,9 @@ scholar_summary(user = '5bO9uxEAAAAJ')
 * Currently supervising three RhD students and one Honours student
 * Student volunteer for the 2017 Australian Society for Parasitology International Conference
 
-**Journal Referee**  	
+**Select Journals Refereed**  	
   
-*German Centre for Integrative Biodiversity Research (iDiv)*, *Molecular Ecology*, *Evolutionary Applications*, *Molecular Biology and Evolution*, *Infection, Genetics and Evolution*, *Malaria Journal*, *Ecology Letters*, *Parasites & Vectors*, *International Journal for Parasitology*, *Proceedings of the Royal Society B*, *BMC Infectious Diseases*, *Parasitology*, *Tropical Medicine and Infectious Disease*, *BMC Veterinary Research*
+*Nature Communications*, *Conservation Letters*, *Methods in Ecology and Evolution*, *German Centre for Integrative Biodiversity Research (iDiv)*, *Molecular Ecology*, *Ecological Monographs*, *Evolutionary Applications*, *Molecular Biology and Evolution*, *Malaria Journal*, *Ecology Letters*, *International Journal for Parasitology*, *Proceedings of the Royal Society B: Biological Sciences*
 
 \pagebreak
 

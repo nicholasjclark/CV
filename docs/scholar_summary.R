@@ -18,15 +18,17 @@ ggplot2:: ggplot(cit, ggplot2::aes(x = year, y = cites)) +
   ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 3, hjust = -0.05, 
                     label = paste('Total works = ', tot),
                     size = 3) +
-  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 4.5, hjust = -0.05, 
+  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 4.5, hjust = -0.04, 
            label = paste('Total citations = ', prof$total_cites),
            size = 3) +
-  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 6, hjust = -0.12, 
+  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 6, hjust = -0.08, 
                     label = paste('h_index = ', prof$h_index),
                     size = 3) + 
-  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 7.5, hjust = -0.12, 
+  ggplot2::annotate("text", x = -Inf, y = Inf, vjust = 7.5, hjust = -0.08, 
                     label = paste('i10_index = ', prof$i10_index),
                     size = 3) + 
-  ggplot2::theme(panel.grid.major = ggplot2::element_blank(), 
+  ggplot2::theme(axis.line = ggplot2::element_line(colour = "black"),
+                 panel.grid.major = ggplot2::element_blank(),
+                 panel.border = ggplot2::element_blank(),
                  panel.grid.minor = ggplot2::element_blank())
 }
