@@ -128,11 +128,10 @@ Goulding, W, Adlard, RD, Clegg, SM and **Clark, NJ**. 2016. Molecular and morpho
   
 **$AU35,090**: UQ Early Career Researcher Grant. 2019. *TickAlert*: development of an integrated early warning surveillance platform for tick paralysis
 
-**$US150,000**: World Health Organization. 2018. Mapping the emergence, spread and transmission pathways of ESBL-producing *E. coli*
-  
-**2017**  
-  
+**$US150,000**: World Health Organization. 2018. Mapping the emergence, spread and transmission pathways of ESBL-producing *E. coli*.
+
 **$US18,400**: National Geographic Scientific Research Grant. 2017. Tracing the spillover of fleas and paralysis ticks between wildlife and domestic pets in Australia 
+
 **$AU4,975**: Birds Queensland Research Award. 2015. The role of invasive birds as carriers of exotic pathogens; implications for co-occurring native birds  
 
 ## Mentoring And Research Training
