@@ -1,0 +1,157 @@
+---
+header-includes:
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \usepackage[dvipsnames]{xcolor}
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Dr Nicholas J Clark
+=============================
+ARC DECRA Fellow- University of Queensland, School of Veterinary Science   
+Gatton, Queensland, Australia - n.clark@uq.edu.au
+[Homepage](https://researchers.uq.edu.au/researcher/15140) - [Github](https://github.com/nicholasjclark) - [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=5bO9uxEAAAAJ&view_op=list_works&gmla=AJsN-F7bdYY9zcTVOHPEOVWZOJmCtgWpcxs_93x6Nxu1saXGdZjQLZ9byuM7Bdln9uk-HvNvAG1pThmdF6m_XgubeW0Q2sVTsjvpgou00G94hSHvb99iNTk)
+
+
+## Career Summary
+An ecologist by training – I hold a B.Sc. (Hons) in Marine Ecology from the University of North Carolina, Wilmington and a Ph.D. in Ecological Modelling from Griffith University. I am broadly interested in exploring new ways to (1) understand how host-parasite interactions are formed and (2) predict how they will change over time. As a DECRA fellow at University of Queensland, my current research focuses on developing computational tools and adapting techniques from statistical forecasting to study how organisms and ecosystems respond to environmental change. This work can be applied to investigate natural dynamics for a range of host-parasite systems.
+
+## Transferable Skills
+* Strong communication skills: >40 publications in peer-reviewed journals; >12 international presentations
+* Extensive experience in ecological programming: maintain four `R` packages for molecular genetics and ecology research
+* Aptitude for leadership: trained seven postgraduate students in bioinformatics, laboratory and statistical techniques
+* Proven ability to obtain funding: >$700,000 external funding from domestic and international organisations
+* Industry networking experience: helped secure data-sharing partnerships and develop joint proposals with three industry partners and one Australian government partner
+
+## Qualifications
+**PhD**  
+**Griffith University** (Supervisors: Dr Sonya Clegg, Dr Robert Adlard, Prof. Hamish McCallum)  
+Thesis: *The distribution and diversity of avian malaria parasites in Australian and Southern Melanesian birds*
+
+**GDipResMeth**  
+**James Cook University** (Supervisors: Prof Garry Russ, Dr Lynne van Herwerden)
+Thesis: *Connectivity of butterflyfishes: pairing molecular methods and field observations*
+
+**BSc (honours)**  
+**University of North Carolina at Wilmington**; North Carolina, USA
+
+\pagebreak
+
+## Professional Experience
+**ARC DECRA Fellow (02/2021 - present)**  
+**University of Queensland**, School of Veterinary Science
+
+* Supervising three RhD students in multivariate modelling and veterinary epidemiology
+* Leading innovative research on the use of multivariate time series models for forecasting ecological responses to change
+
+**Lecturer (08/2019 - 02/2021)**  
+**University of Queensland**, School of Veterinary Science (Adviser: Prof Nigel Perkins)
+
+* Supervising three RhD and two undergraduate students in disease ecology and quantitative genetics
+* Coordinating a second-year animal genetics course for BVetSci students
+* Leading a UQ Early Career Resarch Grant funded project on the use of machine learning genetic algorithms to forecast paraysis tick infestation risk
+
+**Postdoctoral Fellow / Lecturer (7/2016 - 07/2019)**  
+**University of Queensland**, School of Veterinary Science (Adviser: A/Prof Ricardo Soares Magalhães)
+
+* Led a National Geographic funded project on the spread of parasites at the human-wildlife interface
+* Coordinated three UQ undergraduate genetics courses
+* Developed novel network tools to study biotic interactions and their influences on infection risk
+
+**Research Assistant (1/2016 - 7/16)**  
+**University of Queensland**, School of Veterinary Science (Adviser: Dr Steven Kopp)
+
+* Conducted molecular research into population genetics of soil-transmitted helminth parasites
+* Established protocols to develop next generation sequencing tools for cat fleas
+
+## Citations
+```{r echo=FALSE, fig.align='center', fig.height=3, fig.width=4.4, message=FALSE, warning=FALSE}
+source('scholar_summary.R')
+scholar_summary(user = '5bO9uxEAAAAJ')
+```
+
+\pagebreak
+
+## Select Publications
+**Clark, NJ**, Wells, K. 2022. Dynamic Generalised Additive Models (DGAMs) for forecasting discrete ecological time series. *Methods in Ecology and Evolution* DOI: https://doi.org/10.1111/2041-210X.13974 (IF: 8.330)
+
+Powell‐Romero, F, Fountain‐Jones, F, Norberg, A, **Clark, NJ**. 2022. Improving the predictability and interpretability of co‐occurrence modelling through feature‐based joint species distribution ensembles. *Methods in Ecology and Evolution* DOI: https://doi.org/10.1111/2041-210X.13915 (IF: 8.330)
+  
+Fecchio, A, et al. Global drivers of avian haemosporidian infections vary across zoogeographical regions. 2021. *Global Ecology and Biogeography* DOI: https://doi.org/10.1111/geb.13390 (IF: 6.045) 
+ 
+Fountain‐Jones, NM, Kozakiewicz, CP,Forester, BR,Landguth, EL, Carver, SC, Charleston, M, Gagne, RB,  Greenwell, B, Kraberger, S, Trumbo, DR, Mayer, M, **Clark, NJ**, Machado, G. 2021. MrIML: Multi‐response interpretable machine learning to model genomic landscapes. *Molecular Ecology Resources* DOI: https://doi.org/10.1111/1755-0998.13495 (IF: 6.185) 
+  
+**Clark, NJ**, Kerry, JT, and Fraser, CI. 2020. Rapid winter warming will disproportionately disrupt marine fish community structure *Nature Climate Change* DOI: https://doi.org/10.1038/s41558-020-0838-5 (IF: 20.893)  
+  
+**Clark, NJ**, Owada, K, Ruberanziza, E, Ortu, G, Umulisa, I, Bayisenge, U, Mbonigaba, JB, Mucaca, JB, Lancaster, W, Fenwick, A, Soares Magalhães, RJ, and Mbituyumuremyi, A. 2021. Parasite associations predict infection risk: incorporating co-infections in predictive models for neglected tropical diseases. *Parasites & Vectors* DOI: 10.1186/s13071-020-04016-2. (IF: 3.035)      
+  
+Peel, AJ, Wells, K, Giles, J, Boyd, V, Burroughs, A, Edson, D, Crameri, G, Baker, ML, Field, H, Wang, LF, McCallum, H, Plowright, RK and **Clark, NJ**. 2019. Synchronous shedding of multiple bat paramyxoviruses coincides with peak periods of Hendra virus spillover. *Emerging Microbes & Infections* 8:1314-1323. (IF: 6.212)    
+  
+Wells, K, and **Clark, NJ**. Host specificity in variable environments. 2019. *Trends in Parasitology* DOI: 10.1016/j.pt.2019.04.001 (IF: 7.929) [UQ media release](https://www.uq.edu.au/news/article/2019/05/changing-climate-may-affect-animal-human-disease-transfer)    
+  
+Fecchio, A, Wells, K, Bell, JA, Tkach, VV, Lutz, HL, Weckstein, JD, Clegg, SM, and **Clark, NJ**. 2019. Climate variation influences host specificity in avian malaria parasites. *Ecology Letters* 22 547-557 (IF: 9.137)  
+  
+**Clark, NJ**, Wells, K, and Lindberg, O. 2018. Unravelling changing interspecific interactions across environmental gradients using Markov random fields. *Ecology* DOI: 10.1002/ecy.2221 (IF: 4.809) [UQ media release](https://www.uq.edu.au/news/article/2018/05/social-network-models-provide-new-tool-ecology-studies)   
+  
+Wells, L, Gibson, DI, **Clark, NJ**, Ribas, A, Morand, S, McCallum, H. 2018. Global spread of helminth parasites at the human – domestic animal – wildlife interface. *Global Change Biology* DOI: 10.1111/gcb.14064 (IF: 8.502)   
+  
+**Clark, NJ** and Clegg, SM. 2017. Integrating phylogenetic and ecological distances reveals new insights into parasite host specificity. *Molecular Ecology* 26(11), 3074-3086 (IF: 6.086)        
+  
+**Clark, NJ**, Wells, K, Dimitrov, D and Clegg, SM. 2016. Co-infections and environmental conditions drive the distributions of blood parasites in wild birds. *Journal of Animal Ecology* 85(6), 1461-1470 (IF: 4.474)      
+  
+Goulding, W, Adlard, RD, Clegg, SM and **Clark, NJ**. 2016. Molecular and morphological description of *Haemoproteus* (*Parahaemoproteus*) *bukaka* (species nova), a haemosporidian associated with the strictly Australo-Papuan host Subfamily Cracticinae. *Parasitology Research* 115, 3387-3400 (IF: 2.329)       
+  
+**Clark, NJ**, Clegg, SM and Lima, MR. 2014. A review of global diversity in avian haemosporidians (Plasmodium and Haemoproteus: Haemosporida): new insights from molecular data. *International Journal for Parasitology* 44(5), 329-338 (IF: 3.730)    
+
+## Service and Discipline Involvement
+**Service**  
+  
+* Contributing member of UQ School of Veterinary Science Research Committee
+* Served as panel member to mark three UQ RhD theses
+* Participated in teaching and assignment design for four undergraduate courses at UQ
+* Currently supervising three RhD students and one Honours student
+* Student volunteer for the 2017 Australian Society for Parasitology International Conference
+
+## Select Funding Support
+**$AU10,000**: Feline Health Research Foundation. 2022. Epidemiology of feline upper respiratory tract infections in shelter cats in Australia
+
+**$AU445,009**: Australian Research Council Discovery Early Career Award. 2020. Towards reliable and explainable models for anticipating ecological change
+
+**$AU10,178**: John and Mary Kibble Trust. 2019. Deep sequencing of ß-tubulin genes to screen for possible drug resistance mechanisms in canine hookworms infecting Australian dogs    
+  
+**$AU35,090**: UQ Early Career Researcher Grant. 2019. *TickAlert*: development of an integrated early warning surveillance platform for tick paralysis
+
+**$US150,000**: World Health Organization. 2018. Mapping the emergence, spread and transmission pathways of ESBL-producing *E. coli*
+  
+**2017**  
+  
+**$US18,400**: National Geographic Scientific Research Grant. 2017. Tracing the spillover of fleas and paralysis ticks between wildlife and domestic pets in Australia 
+**$AU4,975**: Birds Queensland Research Award. 2015. The role of invasive birds as carriers of exotic pathogens; implications for co-occurring native birds  
+
+## Mentoring And Research Training
+**2021 - present**  
+  
+Supervising three UQ PhD students (U. Kennedy, N. Karunarathna and F. Powel), studying veterinary epidemiology of cat flu and multivariate models for predicting pathogen co-infections
+
+**2019 - 2020**  
+  
+Supervising UQ Masters student (S. Gericke), developing a molecular toolkit to study the population genomics of cat fleas 
+  
+**2018 - present**  
+  
+Supervising UQ Honours student (T. Nguyen), studying population genetics and spatial epidemiology of zoonotic helminths in domestic dogs  
+
+**2017 - present**  
+  
+Co-supervising UQ PhD student (A. McGowan), studying seascape genomics of dugongs  
+  
+**2016 - present**  
+  
+Co-supervising UQ PhD student (T. Proboste), studying population genomics and host-parasite interactions in paralysis ticks  
